@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html amp lang="id">
+<!-- Support By : GOZIAW -->
 <head>
   <meta charset="utf-8">
-  <title>SIBAYAKTOTO : Platform Situs Slot 4D Resmi & Agen Toto Slot Gacor Terpercaya 2026</title>
+  <title>SIBAYAKTOTO | Platform Situs Slot 4D Resmi & Agen Toto Slot Gacor Terpercaya 2026</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="SIBAYAKTOTO hadir sebagai platform situs slot 4D dan toto slot gacor resmi terpercaya di Indonesia. Nikmati game slot dengan RTP tinggi, bonus menarik, aman dan layanan 24jam nonstop.">
-  <meta name="keywords" content="sibayaktoto, sibayaktoto login, sibayaktoto link, sibayaktoto alternatif, login sibayaktoto, link sibayaktoto, alternatif sibayaktoto" />
-  <meta name="robots" content="index,follow">
+  <meta name="robots" content="index, follow">
   <meta property="og:url" content="https://internationalpublisher.id/journal/">
   <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRUCkpZiiECghp9_mErgF7C7iVg4WCr1WfjLt8nWJ-ERUQOb4WHAUQ53oBEwGLpF3CiQ0QRZ-HTspmwl-KTnxZh9CGIe7DU4m4-RmE_SfY03dr0PYnCXqiA9lHL4pBKLwGy7KxnhcIkd164x0aPhyphenhyphenqXs6YTisgn63Ar2N21ux_JlEW0YMh-SK2e9en_-Y/s800/totoslot.webp">
   <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
@@ -15,6 +15,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
+  <!-- AMP BOILERPLATE -->
   <style amp-boilerplate>
     body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
     @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
@@ -32,782 +33,702 @@
   <!-- CUSTOM CSS -->
 <style amp-custom>
 :root {
-  --bg: #080304;
-  --text: #f5f5f5;
-  --neon-blue: #5b0712;
-  --neon-blue-light: #b8b8b8;
-  --neon-pulse: #e5e5e5;
+    --bg: #000000;
+    --text: #f5f5f5;
+
+    /* DARK BLOOD RED + SILVER CHROME */
+    --blood-dark: #260000;
+    --blood-deep: #3b0000;
+    --blood-red: #700000;
+    --blood-main: #8b0000;
+    --blood-light: #b01010;
+
+    --silver-dark: #666666;
+    --silver: #bcbcbc;
+    --silver-light: #e8e8e8;
+    --silver-white: #ffffff;
 }
 
+
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 
 html,
 body {
-  margin: 0;
-  height: 100%;
+    margin: 0;
+    height: 100%;
 }
+
 
 body {
-  font-family: 'Inter', sans-serif;
-  color: var(--text);
-  background: var(--bg);
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  padding: 16px;
+    font-family: 'Inter', sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+    padding: 16px;
 }
+
 
 .shell {
-  max-width: 520px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 16px;
+    max-width: 520px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 16px;
 }
+
 
 .header {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
 }
+
 
 .logo {
-  border-radius: 8px;
+    border-radius: 8px;
 }
 
-/* ================= BLOOD RED SILVER MARQUEE ================= */
+
+/* =========================================
+   MARQUEE
+========================================= */
 
 .marquee-wrapper {
-  width: 100%;
-  background: #030303;
-  border-top: 2px groove #b8b8b8;
-  border-bottom: 2px groove #5b0712;
-  overflow: hidden;
-  padding: 8px 0;
+    width: 100%;
+
+    background: #000000;
+
+    border-top:
+        2px groove var(--blood-main);
+
+    border-bottom:
+        2px groove var(--silver);
+
+    overflow: hidden;
+
+    padding: 8px 0;
 }
+
 
 .marquee-text {
-  display: inline-block;
-  white-space: nowrap;
-  color: #e5e5e5;
-  font-size: 13px;
-  font-weight: bold;
-  padding-left: 100%;
-  animation: marquee 10s linear infinite;
+    display: inline-block;
+
+    white-space: nowrap;
+
+    color: var(--silver-white);
+
+    font-size: 13px;
+    font-weight: bold;
+
+    padding-left: 100%;
+
+    animation:
+        marquee 12s linear infinite;
+
+    text-shadow:
+        0 0 5px rgba(220,220,220,.5);
 }
+
 
 @keyframes marquee {
-  0% {
-    transform: translateX(0);
-  }
 
-  100% {
-    transform: translateX(-100%);
-  }
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
 }
 
-/* ================= CARD ================= */
+
+/* =========================================
+   MAIN CARD
+========================================= */
 
 .card {
-  position: relative;
-  background:
-    linear-gradient(
-      180deg,
-      rgba(110, 20, 36, 0.18),
-      rgba(192, 192, 192, 0.04)
-    );
+    position: relative;
 
-  border: 3px solid #7a0b18;
-  border-radius: 18px;
+    background:
+        linear-gradient(
+            180deg,
+            rgba(110,0,0,.12),
+            rgba(0,0,0,.05)
+        );
 
-  box-shadow:
-    0 0 20px rgba(110, 20, 36, 0.8),
-    0 0 45px rgba(110, 20, 36, 0.35),
-    inset 0 0 12px rgba(192, 192, 192, 0.15),
-    0 10px 50px rgba(0, 0, 0, 0.8);
+    border:
+        3px solid var(--blood-main);
 
-  overflow: hidden;
-  width: 100%;
-  padding: 20px;
+    border-radius: 18px;
+
+    box-shadow:
+        0 0 18px rgba(139,0,0,.7),
+        0 0 35px rgba(192,192,192,.13),
+        inset 0 0 12px rgba(110,0,0,.6),
+        0 10px 50px rgba(0,0,0,.7);
+
+    overflow: hidden;
+
+    width: 100%;
+
+    padding: 20px;
+
+    transition:
+        transform .25s ease,
+        box-shadow .3s ease;
 }
+
 
 .card:hover {
-  box-shadow:
-    0 0 30px #7a0b18,
-    0 0 70px rgba(192, 192, 192, 0.35),
-    inset 0 0 20px rgba(192, 192, 192, 0.2),
-    0 10px 60px rgba(0, 0, 0, 0.9);
 
-  transform: scale(1.01);
+    box-shadow:
+        0 0 32px rgba(139,0,0,.9),
+        0 0 55px rgba(220,220,220,.18),
+        inset 0 0 20px rgba(110,0,0,.75),
+        0 10px 60px rgba(0,0,0,.8);
+
+    transform:
+        scale(1.01);
 }
+
+
+/* =========================================
+   BLOOD RED GLOW WAVE
+========================================= */
 
 .card::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
 
-  background:
-    radial-gradient(
-      circle,
-      rgba(110, 20, 36, 0.55),
-      transparent 70%
-    );
+    content: "";
 
-  animation: neonWave 6s linear infinite;
-  filter: blur(25px);
-  z-index: 0;
+    position: absolute;
+
+    top: -50%;
+    left: -50%;
+
+    width: 200%;
+    height: 200%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(139,0,0,.55),
+            rgba(100,0,0,.16) 35%,
+            transparent 70%
+        );
+
+    animation:
+        bloodWave 6s linear infinite;
+
+    filter:
+        blur(25px);
+
+    z-index: 0;
 }
 
-@keyframes neonWave {
-  0% {
-    transform: translateX(-50%) translateY(-50%) rotate(0deg);
-  }
 
-  100% {
-    transform: translateX(-50%) translateY(-50%) rotate(360deg);
-  }
+@keyframes bloodWave {
+
+    0% {
+        transform:
+            translateX(-50%)
+            translateY(-50%)
+            rotate(0deg);
+    }
+
+    100% {
+        transform:
+            translateX(-50%)
+            translateY(-50%)
+            rotate(360deg);
+    }
 }
 
-/* ================= HERO ================= */
+
+/* =========================================
+   HERO
+========================================= */
 
 .hero {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  align-items: center;
-  position: relative;
-  z-index: 1;
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 16px;
+
+    align-items: center;
+
+    position: relative;
+
+    z-index: 1;
 }
+
 
 .hero-img {
-  border-radius: 14px;
-  width: 100%;
-  height: auto;
+    border-radius: 14px;
+
+    width: 100%;
+    height: auto;
 }
 
-/* ================= CTA ================= */
+
+/* =========================================
+   CTA
+========================================= */
 
 .cta {
-  display: flex;
-  gap: 12px;
-  width: 100%;
-  justify-content: center;
-  flex-wrap: wrap;
-  position: relative;
-  z-index: 1;
+
+    display: flex;
+
+    gap: 12px;
+
+    width: 100%;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+    position: relative;
+
+    z-index: 1;
 }
+
+
+/* =========================================
+   MAIN BUTTON
+   BLOOD RED + SILVER CHROME
+========================================= */
 
 .btn {
-  flex: 1 1 45%;
-  display: inline-block;
-  text-decoration: none;
-  text-align: center;
-  padding: 14px 16px;
-  border-radius: 12px;
-  font-weight: 700;
-  letter-spacing: .3px;
-  border: 2px solid transparent;
-  transition: all .25s ease;
-  position: relative;
-  overflow: hidden;
-  color: #fff;
-  background: #030303;
-  z-index: 1;
+
+    flex: 1 1 45%;
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    border-radius: 12px;
+
+    font-weight: 700;
+
+    letter-spacing: .3px;
+
+    border:
+        2px solid transparent;
+
+    transition:
+        all .25s ease;
+
+    position: relative;
+
+    overflow: hidden;
+
+    color: #ffffff;
+
+    background: #050000;
+
+    z-index: 1;
+
+    text-shadow:
+        0 1px 2px #000,
+        0 0 5px rgba(255,255,255,.25);
 }
+
+
+/* =========================================
+   SILVER / BLOOD ROTATING BORDER
+========================================= */
 
 .btn::before {
-  content: "";
-  position: absolute;
-  top: -3px;
-  left: -3px;
-  right: -3px;
-  bottom: -3px;
 
-  background:
-    conic-gradient(
-      from 0deg,
-      #3d040c,
-      #7a0b18,
-      #b8b8b8,
-      #e5e5e5,
-      #7a0b18,
-      #3d040c
-    );
+    content: "";
 
-  border-radius: 14px;
-  z-index: -1;
-  filter: blur(8px);
-  animation: rotateBorder 2.5s linear infinite;
+    position: absolute;
+
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+
+    background:
+        conic-gradient(
+            from 0deg,
+            #280000,
+            #600000,
+            #8b0000,
+            #b01010,
+            #777777,
+            #d5d5d5,
+            #ffffff,
+            #bcbcbc,
+            #8b0000,
+            #4b0000,
+            #280000
+        );
+
+    border-radius: 14px;
+
+    z-index: -1;
+
+    filter:
+        blur(5px);
+
+    animation:
+        rotateBorder 3s linear infinite;
 }
+
+
+/* =========================================
+   BUTTON INNER
+========================================= */
 
 .btn::after {
-  content: "";
-  position: absolute;
-  top: 3px;
-  left: 3px;
-  right: 3px;
-  bottom: 3px;
-  background: #030303;
-  border-radius: 10px;
-  z-index: -1;
+
+    content: "";
+
+    position: absolute;
+
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #300000 0%,
+            #520000 35%,
+            #210000 65%,
+            #080000 100%
+        );
+
+    border-radius: 10px;
+
+    z-index: -1;
 }
+
 
 .btn:hover {
-  animation: glowPulse 1s infinite;
-  transform: translateY(-2px);
+
+    animation:
+        glowPulse 1s infinite;
+
+    transform:
+        translateY(-2px);
 }
+
+
+/* =========================================
+   ROTATING BORDER
+========================================= */
 
 @keyframes rotateBorder {
-  to {
-    transform: rotate(360deg);
-  }
+
+    to {
+        transform:
+            rotate(360deg);
+    }
 }
+
+
+/* =========================================
+   BLOOD + SILVER GLOW
+========================================= */
 
 @keyframes glowPulse {
-  0% {
-    box-shadow:
-      0 0 20px #5b0712,
-      0 0 45px rgba(110, 20, 36, 0.7);
-  }
 
-  50% {
-    box-shadow:
-      0 0 35px #b8b8b8,
-      0 0 80px rgba(192, 192, 192, 0.65);
-  }
+    0% {
 
-  100% {
-    box-shadow:
-      0 0 20px #5b0712,
-      0 0 45px rgba(110, 20, 36, 0.7);
-  }
+        box-shadow:
+            0 0 18px rgba(139,0,0,.65),
+            0 0 35px rgba(139,0,0,.35);
+    }
+
+    50% {
+
+        box-shadow:
+            0 0 25px rgba(210,210,210,.75),
+            0 0 50px rgba(139,0,0,.75),
+            0 0 85px rgba(100,0,0,.35);
+    }
+
+    100% {
+
+        box-shadow:
+            0 0 18px rgba(139,0,0,.65),
+            0 0 35px rgba(139,0,0,.35);
+    }
 }
 
-/* ================= SECTION BUTTONS ================= */
+
+/* =========================================
+   SECTION BUTTONS
+========================================= */
 
 .section-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  width: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 12px;
+
+    width: 100%;
 }
 
-/* ================= BADGES ================= */
+
+/* =========================================
+   BADGE CONTAINER
+========================================= */
 
 .badge-container {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  justify-content: center;
+
+    display: flex;
+
+    gap: 8px;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
 }
+
+
+/* =========================================
+   BADGE
+========================================= */
 
 .badge {
-  flex: 1 1 30%;
-  display: inline-block;
-  text-decoration: none;
-  text-align: center;
-  padding: 10px 12px;
-  border-radius: 10px;
-  font-weight: 700;
-  letter-spacing: .2px;
-  border: 2px solid transparent;
-  transition: all .25s ease;
-  position: relative;
-  overflow: hidden;
-  color: #fff;
-  background: #030303;
-  z-index: 1;
-  font-size: 12px;
+
+    flex: 1 1 30%;
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    text-align: center;
+
+    padding: 10px 12px;
+
+    border-radius: 10px;
+
+    font-weight: 700;
+
+    letter-spacing: .2px;
+
+    border:
+        2px solid transparent;
+
+    transition:
+        all .25s ease;
+
+    position: relative;
+
+    overflow: hidden;
+
+    color: #ffffff;
+
+    background: #050000;
+
+    z-index: 1;
+
+    font-size: 12px;
+
+    text-shadow:
+        0 1px 2px #000;
 }
+
+
+/* =========================================
+   BADGE BORDER
+========================================= */
 
 .badge::before {
-  content: "";
-  position: absolute;
-  top: -3px;
-  left: -3px;
-  right: -3px;
-  bottom: -3px;
 
-  background:
-    conic-gradient(
-      from 0deg,
-      #3d040c,
-      #7a0b18,
-      #b8b8b8,
-      #e5e5e5,
-      #7a0b18,
-      #3d040c
-    );
+    content: "";
 
-  border-radius: 12px;
-  z-index: -1;
-  filter: blur(8px);
-  animation: rotateBorder 3s linear infinite;
+    position: absolute;
+
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+
+    background:
+        conic-gradient(
+            from 0deg,
+            #280000,
+            #600000,
+            #8b0000,
+            #b01010,
+            #888888,
+            #d8d8d8,
+            #ffffff,
+            #c0c0c0,
+            #8b0000,
+            #4b0000,
+            #280000
+        );
+
+    border-radius: 12px;
+
+    z-index: -1;
+
+    filter:
+        blur(5px);
+
+    animation:
+        rotateBorder 3s linear infinite;
 }
+
+
+/* =========================================
+   BADGE INNER
+========================================= */
 
 .badge::after {
-  content: "";
-  position: absolute;
-  top: 3px;
-  left: 3px;
-  right: 3px;
-  bottom: 3px;
-  background: #030303;
-  border-radius: 8px;
-  z-index: -1;
+
+    content: "";
+
+    position: absolute;
+
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #320000,
+            #520000,
+            #0a0000
+        );
+
+    border-radius: 8px;
+
+    z-index: -1;
 }
+
 
 .badge:hover {
-  animation: glowPulse 1.2s infinite;
-  transform: scale(1.05);
+
+    animation:
+        glowPulse 1.2s infinite;
+
+    transform:
+        scale(1.05);
 }
 
-/* ================= FOOTER ================= */
+
+/* =========================================
+   FOOTER
+========================================= */
 
 .footer {
-  text-align: center;
-  color: #ffffff;
-  font-size: 12px;
-  padding: 8px 0 0;
-  margin-top: 8px;
-  position: relative;
-  z-index: 1;
+
+    text-align: center;
+
+    color: #ffffff;
+
+    font-size: 12px;
+
+    padding: 8px 0 0;
+
+    margin-top: 8px;
+
+    position: relative;
+
+    z-index: 1;
+
+    text-shadow:
+        0 1px 2px #000;
 }
+
 
 .footer b {
-  color: #b8b8b8;
+
+    color: var(--silver-light);
+
+    text-shadow:
+        0 0 5px rgba(220,220,220,.5);
 }
 
-/* ===================================================
-   BLOOD WAR BACKGROUND
-=================================================== */
 
-.war-zone {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  pointer-events: none;
-  z-index: -1;
-  background: #030303;
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+    body {
+        padding: 12px;
+    }
+
+    .card {
+
+        padding: 16px;
+
+        border-radius: 15px;
+    }
+
+    .btn {
+
+        padding: 12px 10px;
+
+        font-size: 14px;
+    }
+
+    .badge {
+
+        font-size: 11px;
+
+        padding: 9px 8px;
+    }
 }
 
-.war-bg {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-
-  background:
-    radial-gradient(
-      circle at center,
-      rgba(120, 15, 35, .20),
-      transparent 60%
-    ),
-    linear-gradient(
-      180deg,
-      #030303 0%,
-      #100307 25%,
-      #21050b 55%,
-      #0a0205 80%,
-      #010101 100%
-    );
-
-  animation: skyMove 18s linear infinite alternate;
-}
-
-@keyframes skyMove {
-  0% {
-    transform: scale(1);
-    filter: brightness(.85);
-  }
-
-  100% {
-    transform: scale(1.15);
-    filter: brightness(1.08);
-  }
-}
-
-/* ================= SMOKE ================= */
-
-.smoke {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  border-radius: 50%;
-  filter: blur(70px);
-  opacity: .18;
-
-  background:
-    radial-gradient(
-      circle,
-      rgba(190, 190, 190, .38),
-      transparent 70%
-    );
-
-  animation: smokeMove 25s linear infinite;
-}
-
-.smoke1 {
-  left: -150px;
-  bottom: -120px;
-  animation-duration: 30s;
-}
-
-.smoke2 {
-  right: -150px;
-  bottom: -50px;
-  animation-duration: 24s;
-}
-
-.smoke3 {
-  left: 35%;
-  bottom: -180px;
-  animation-duration: 35s;
-}
-
-@keyframes smokeMove {
-  0% {
-    transform: translateY(200px) scale(.8);
-    opacity: 0;
-  }
-
-  40% {
-    opacity: .18;
-  }
-
-  100% {
-    transform: translateY(-900px) scale(1.8);
-    opacity: 0;
-  }
-}
-
-/* ================= BLOOD GROUND ================= */
-
-.ground-fire {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 170px;
-
-  background:
-    radial-gradient(
-      circle at 20% 100%,
-      #5b0712,
-      transparent 45%
-    ),
-    radial-gradient(
-      circle at 50% 100%,
-      #8f1020,
-      transparent 55%
-    ),
-    radial-gradient(
-      circle at 80% 100%,
-      #b8b8b8,
-      transparent 45%
-    );
-
-  opacity: .55;
-  animation: fireMove 2s infinite alternate;
-  filter: blur(20px);
-}
-
-@keyframes fireMove {
-  0% {
-    transform: translateY(0);
-  }
-
-  100% {
-    transform: translateY(-25px);
-  }
-}
-
-/* ===================================================
-   LEFT / RIGHT GUN
-=================================================== */
-
-.left-gun,
-.right-gun {
-  position: absolute;
-  top: 0;
-  width: 50%;
-  height: 100%;
-}
-
-.left-gun {
-  left: 0;
-}
-
-.right-gun {
-  right: 0;
-}
-
-/* ================= MUZZLE ================= */
-
-.left-gun .muzzle,
-.right-gun .muzzle {
-  position: absolute;
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  filter: blur(15px);
-  animation: muzzleFlash .08s infinite;
-}
-
-.left-gun .muzzle {
-  left: -35px;
-  top: 50%;
-  transform: translateY(-50%);
-
-  background:
-    radial-gradient(
-      circle,
-      #fff 0%,
-      #e5e5e5 25%,
-      #b8b8b8 50%,
-      #7a0b18 70%,
-      transparent 80%
-    );
-}
-
-.right-gun .muzzle {
-  right: -35px;
-  top: 50%;
-  transform: translateY(-50%);
-
-  background:
-    radial-gradient(
-      circle,
-      #fff 0%,
-      #e5e5e5 25%,
-      #b8b8b8 50%,
-      #7a0b18 70%,
-      transparent 80%
-    );
-}
-
-@keyframes muzzleFlash {
-  0%,
-  100% {
-    opacity: .25;
-    transform: translateY(-50%) scale(.8);
-  }
-
-  50% {
-    opacity: 1;
-    transform: translateY(-50%) scale(1.4);
-  }
-}
-
-/* ================= LEFT BULLETS ================= */
-
-.left-gun .bullets span {
-  position: absolute;
-  left: -120px;
-  width: 220px;
-  height: 3px;
-  border-radius: 20px;
-
-  background:
-    linear-gradient(
-      90deg,
-      #fff,
-      #e5e5e5,
-      #b8b8b8,
-      #8f1020,
-      rgba(110, 20, 36, .4),
-      transparent
-    );
-
-  box-shadow:
-    0 0 5px #fff,
-    0 0 12px #b8b8b8,
-    0 0 22px #7a0b18,
-    0 0 35px #5b0712;
-
-  animation: leftShoot .28s linear infinite;
-}
-
-.left-gun .bullets span:nth-child(1) {
-  top: 42%;
-  animation-delay: 0s;
-}
-
-.left-gun .bullets span:nth-child(2) {
-  top: 46%;
-  animation-delay: .05s;
-}
-
-.left-gun .bullets span:nth-child(3) {
-  top: 50%;
-  animation-delay: .12s;
-}
-
-.left-gun .bullets span:nth-child(4) {
-  top: 54%;
-  animation-delay: .18s;
-}
-
-.left-gun .bullets span:nth-child(5) {
-  top: 58%;
-  animation-delay: .23s;
-}
-
-@keyframes leftShoot {
-  0% {
-    transform: translateX(0) scaleX(.4);
-    opacity: 1;
-  }
-
-  100% {
-    transform: translateX(calc(50vw + 150px)) scaleX(1);
-    opacity: 0;
-  }
-}
-
-/* ================= RIGHT BULLETS ================= */
-
-.right-gun .bullets span {
-  position: absolute;
-  right: -120px;
-  width: 220px;
-  height: 3px;
-  border-radius: 20px;
-
-  background:
-    linear-gradient(
-      -90deg,
-      #fff,
-      #e5e5e5,
-      #b8b8b8,
-      #8f1020,
-      rgba(110, 20, 36, .4),
-      transparent
-    );
-
-  box-shadow:
-    0 0 5px #fff,
-    0 0 12px #b8b8b8,
-    0 0 22px #7a0b18,
-    0 0 35px #5b0712;
-
-  animation: rightShoot .28s linear infinite;
-}
-
-.right-gun .bullets span:nth-child(1) {
-  top: 42%;
-  animation-delay: .03s;
-}
-
-.right-gun .bullets span:nth-child(2) {
-  top: 46%;
-  animation-delay: .08s;
-}
-
-.right-gun .bullets span:nth-child(3) {
-  top: 50%;
-  animation-delay: .15s;
-}
-
-.right-gun .bullets span:nth-child(4) {
-  top: 54%;
-  animation-delay: .20s;
-}
-
-.right-gun .bullets span:nth-child(5) {
-  top: 58%;
-  animation-delay: .25s;
-}
-
-@keyframes rightShoot {
-  0% {
-    transform: translateX(0) scaleX(.4);
-    opacity: 1;
-  }
-
-  100% {
-    transform: translateX(calc(-50vw - 150px)) scaleX(1);
-    opacity: 0;
-  }
-}
 </style>
 </head>
 
 <body>
-<div class="war-zone">
-    <div class="war-bg"></div>
-    <div class="smoke smoke1"></div>
-    <div class="smoke smoke2"></div>
-    <div class="smoke smoke3"></div>
-    <div class="ground-fire"></div>
-    <div class="sparks">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-    </div>
-    <div class="battle-center">
-        <div class="explosion"></div>
-        <div class="shockwave"></div>
-    </div>
-    <div class="left-gun">
-        <div class="muzzle"></div>
-        <div class="bullets">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
-    <div class="right-gun">
-        <div class="muzzle"></div>
-        <div class="bullets">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
-</div>
-
-
 <div class="shell">
+
+  <!-- LOGO -->
   <header class="header">
     <amp-img
       class="logo"
       src="https://sby.p-balap.info/img/sibayaktotologo.webp"
       width="190" height="60" layout="fixed"
-      alt="SIBAYAKTOTO - Logo">
+      alt="SITUS SIBAYAKTOTO - Logo">
     </amp-img>
   </header>
+
   <div class="marquee-wrapper">
     <div class="marquee-text">
-     SIBAYAKTOTO : Platform Situs Slot 4D Resmi & Agen Toto Slot Gacor Terpercaya 2026
+      SELAMAT DATANG DI SIBAYAKTOTO | Platform Situs Slot 4D Resmi & Agen Toto Slot Gacor Terpercaya 2026
     </div>
   </div>
+
+
   <section class="card hero">
     <amp-img
       class="hero-img"
       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRUCkpZiiECghp9_mErgF7C7iVg4WCr1WfjLt8nWJ-ERUQOb4WHAUQ53oBEwGLpF3CiQ0QRZ-HTspmwl-KTnxZh9CGIe7DU4m4-RmE_SfY03dr0PYnCXqiA9lHL4pBKLwGy7KxnhcIkd164x0aPhyphenhyphenqXs6YTisgn63Ar2N21ux_JlEW0YMh-SK2e9en_-Y/s800/totoslot.webp"
       width="1024" height="1024" layout="responsive"
-      alt="SIBAYAKTOTO">
+      alt="SITUS SIBAYAKTOTO">
     </amp-img>
 
 
@@ -815,28 +736,15 @@ body {
       <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">LOGIN</a>
       <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">DAFTAR</a>
     </div>
-
-
-    <div class="section-buttons">
-      <div class="badge-container">
-        <a class="badge" href="https://p-balap.info/short-link/sbygacor" style="color:white;">RTP LIVE</a>
-      </div>
-
-      <div class="badge-container">
-        <a class="badge" href="https://p-balap.info/short-link/sbygacor" style="color:white;">PREDIKSI ANGKA TOGEL</a>
-      </div>
-
-    <div class="badge-container">
-        <a class="badge" href="https://direct.lc.chat/18940341" style="color:white;">LIVECHAT 24/7</a>
-      </div>
-    </div>
+<div class="cta">
+ <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">SITUS SLOT GACOR HARI INI</a>
+</div>
   </section>
-
-
-  <footer class="footer">
+  <footer class="footer"> 
     <div class="copyright">
-      COPYRIGHT BY SIBAYAKTOTO | <b>SEO GOZIAW</b>
+      © 2026 SIBAYAKTOTO. ✓ All Rights Reserved By. <br><b style="color:#ca0000; font-weight:700;">SEO NAKAL-TEAM X GOZIAW</b>
     </div>
+	
   </footer>
 
 </div>
