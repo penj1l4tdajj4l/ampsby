@@ -1,752 +1,1403 @@
 <!DOCTYPE html>
-<html amp lang="id">
-<!-- Support By : GOZIAW -->
-<head>
-  <meta charset="utf-8">
-  <title>Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!">
-  <meta name="robots" content="index, follow">
-  <meta property="og:url" content="https://www.ledijournals.com/ojs/">
-  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp">
-  <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
-  <link rel="canonical" href="https://www.ledijournals.com/ojs/">
-  <script async src="https://cdn.ampproject.org/v0.js"></script>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<html lang="id" amp="">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya</title>
+    <meta name="description" content="Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!">
+    <meta name="robots" content="index, follow">
+    <meta itemprop="name" content="SIBAYAKTOTO">
+    <meta itemprop="description" content="Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!">
+    <meta itemprop="image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp">
+    <meta property="og:url" content="https://www.ledijournals.com/ojs/" />
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya">
+    <meta property="og:description" content="Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!">
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="SIBAYAKTOTO">
+    <meta name="twitter:creator" content="SIBAYAKTOTO">
+    <meta name="twitter:title" content="Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya">
+    <meta name="twitter:description" content="Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!">
+    <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp">
+    <link rel="canonical" href="https://www.ledijournals.com/ojs/" />
+    <link rel="alternate" href="https://www.ledijournals.com/ojs/" hreflang="id" />
+    <link rel="icon" type="image/png" href="https://sby.p-balap.info/img/sibayaktotoicon.webp" sizes="16x16">
+    <link rel="preconnect" href="https://cdn.ampproject.org">
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+    <script async="" src="https://cdn.ampproject.org/v0.js" nonce="MjEwODAyNDA2NywzOTExNjY5MzY2"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo%202:ital,wght@0,400">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style amp-boilerplate="">
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both
+      }
 
-  <!-- AMP BOILERPLATE -->
-  <style amp-boilerplate>
-    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
-    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-  </style>
-  <noscript>
-    <style amp-boilerplate>
-      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
     </style>
-  </noscript>
+    <noscript>
+      <style amp-boilerplate="">
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none
+        }
+      </style>
+    </noscript>
+    <style amp-custom="">
+:root{
+    --primary-color:#8B1E2D;
+    --tertiary-color:#8E8E8E;
+    --dark-color:#6A1421;
+    --darkest-color:#24070C;
 
-  <!-- CUSTOM CSS -->
-<style amp-custom>
-:root {
-    --bg: #000000;
-    --text: #f5f5f5;
+    --jackpot-light-color:#000000;
+    --jackpot-number-color:#030303;
 
-    /* DARK BLOOD RED + SILVER CHROME */
-    --blood-dark: #260000;
-    --blood-deep: #3b0000;
-    --blood-red: #700000;
-    --blood-main: #8b0000;
-    --blood-light: #b01010;
+    --mitragame-bg-color:transparent;
 
-    --silver-dark: #666666;
-    --silver: #bcbcbc;
-    --silver-light: #e8e8e8;
-    --silver-white: #ffffff;
-}
+    --text-common-color:#F5F5F5;
+    --navbar-bg-color:#2E2E2E;
+    --text-nav:#F5F5F5;
+    --text-common-inverse-color:#1A1A1A;
+    --text-highlight-color:#C0C0C0;
 
+    --primary-shadow-color-normal:rgba(139,30,45,.30);
+    --primary-shadow-color-small:rgba(139,30,45,.19);
+    --primary-shadow-color-large:rgba(139,30,45,.40);
+    --primary-shadow-color-medium:rgba(139,30,45,.25);
 
-* {
-    box-sizing: border-box;
-}
+    --infobar-linear-gradient-color:
+        linear-gradient(#8B1E2D,#6A1421);
 
+    --infobar-linear-gradient-color-alpha:
+        linear-gradient(#F5F5F5,#C0C0C0);
 
-html,
-body {
-    margin: 0;
-    height: 100%;
-}
-
-
-body {
-    font-family: 'Inter', sans-serif;
-    color: var(--text);
-    background: var(--bg);
-    min-height: 100vh;
-
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-
-    padding: 16px;
-}
-
-
-.shell {
-    max-width: 520px;
-    width: 100%;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    gap: 16px;
-}
-
-
-.header {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 0;
-}
-
-
-.logo {
-    border-radius: 8px;
-}
-
-
-/* =========================================
-   MARQUEE
-========================================= */
-
-.marquee-wrapper {
-    width: 100%;
-
-    background: #000000;
-
-    border-top:
-        2px groove var(--blood-main);
-
-    border-bottom:
-        2px groove var(--silver);
-
-    overflow: hidden;
-
-    padding: 8px 0;
-}
-
-
-.marquee-text {
-    display: inline-block;
-
-    white-space: nowrap;
-
-    color: var(--silver-white);
-
-    font-size: 13px;
-    font-weight: bold;
-
-    padding-left: 100%;
-
-    animation:
-        marquee 12s linear infinite;
-
-    text-shadow:
-        0 0 5px rgba(220,220,220,.5);
-}
-
-
-@keyframes marquee {
-
-    0% {
-        transform: translateX(0);
-    }
-
-    100% {
-        transform: translateX(-100%);
-    }
-}
-
-
-/* =========================================
-   MAIN CARD
-========================================= */
-
-.card {
-    position: relative;
-
-    background:
+    --infobar-linear-gradient-dark-color-alpha:
         linear-gradient(
-            180deg,
-            rgba(110,0,0,.12),
-            rgba(0,0,0,.05)
+            0deg,
+            #24070C,
+            rgba(74,14,24,.3)
         );
 
-    border:
-        3px solid var(--blood-main);
-
-    border-radius: 18px;
-
-    box-shadow:
-        0 0 18px rgba(139,0,0,.7),
-        0 0 35px rgba(192,192,192,.13),
-        inset 0 0 12px rgba(110,0,0,.6),
-        0 10px 50px rgba(0,0,0,.7);
-
-    overflow: hidden;
-
-    width: 100%;
-
-    padding: 20px;
-
-    transition:
-        transform .25s ease,
-        box-shadow .3s ease;
-}
-
-
-.card:hover {
-
-    box-shadow:
-        0 0 32px rgba(139,0,0,.9),
-        0 0 55px rgba(220,220,220,.18),
-        inset 0 0 20px rgba(110,0,0,.75),
-        0 10px 60px rgba(0,0,0,.8);
-
-    transform:
-        scale(1.01);
-}
-
-
-/* =========================================
-   BLOOD RED GLOW WAVE
-========================================= */
-
-.card::before {
-
-    content: "";
-
-    position: absolute;
-
-    top: -50%;
-    left: -50%;
-
-    width: 200%;
-    height: 200%;
-
-    background:
-        radial-gradient(
-            circle,
-            rgba(139,0,0,.55),
-            rgba(100,0,0,.16) 35%,
-            transparent 70%
-        );
-
-    animation:
-        bloodWave 6s linear infinite;
-
-    filter:
-        blur(25px);
-
-    z-index: 0;
-}
-
-
-@keyframes bloodWave {
-
-    0% {
-        transform:
-            translateX(-50%)
-            translateY(-50%)
-            rotate(0deg);
-    }
-
-    100% {
-        transform:
-            translateX(-50%)
-            translateY(-50%)
-            rotate(360deg);
-    }
-}
-
-
-/* =========================================
-   HERO
-========================================= */
-
-.hero {
-    display: flex;
-
-    flex-direction: column;
-
-    gap: 16px;
-
-    align-items: center;
-
-    position: relative;
-
-    z-index: 1;
-}
-
-
-.hero-img {
-    border-radius: 14px;
-
-    width: 100%;
-    height: auto;
-}
-
-
-/* =========================================
-   CTA
-========================================= */
-
-.cta {
-
-    display: flex;
-
-    gap: 12px;
-
-    width: 100%;
-
-    justify-content: center;
-
-    flex-wrap: wrap;
-
-    position: relative;
-
-    z-index: 1;
-}
-
-
-/* =========================================
-   MAIN BUTTON
-   BLOOD RED + SILVER CHROME
-========================================= */
-
-.btn {
-
-    flex: 1 1 45%;
-
-    display: inline-block;
-
-    text-decoration: none;
-
-    text-align: center;
-
-    padding: 14px 16px;
-
-    border-radius: 12px;
-
-    font-weight: 700;
-
-    letter-spacing: .3px;
-
-    border:
-        2px solid transparent;
-
-    transition:
-        all .25s ease;
-
-    position: relative;
-
-    overflow: hidden;
-
-    color: #ffffff;
-
-    background: #050000;
-
-    z-index: 1;
-
-    text-shadow:
-        0 1px 2px #000,
-        0 0 5px rgba(255,255,255,.25);
-}
-
-
-/* =========================================
-   SILVER / BLOOD ROTATING BORDER
-========================================= */
-
-.btn::before {
-
-    content: "";
-
-    position: absolute;
-
-    top: -3px;
-    left: -3px;
-    right: -3px;
-    bottom: -3px;
-
-    background:
-        conic-gradient(
-            from 0deg,
-            #280000,
-            #600000,
-            #8b0000,
-            #b01010,
-            #777777,
-            #d5d5d5,
-            #ffffff,
-            #bcbcbc,
-            #8b0000,
-            #4b0000,
-            #280000
-        );
-
-    border-radius: 14px;
-
-    z-index: -1;
-
-    filter:
-        blur(5px);
-
-    animation:
-        rotateBorder 3s linear infinite;
-}
-
-
-/* =========================================
-   BUTTON INNER
-========================================= */
-
-.btn::after {
-
-    content: "";
-
-    position: absolute;
-
-    top: 3px;
-    left: 3px;
-    right: 3px;
-    bottom: 3px;
-
-    background:
+    --infobar-linear-gradient-semi-dark-color-alpha:
         linear-gradient(
-            180deg,
-            #300000 0%,
-            #520000 35%,
-            #210000 65%,
-            #080000 100%
+            0deg,
+            #1A0A10,
+            rgba(74,14,24,.2)
         );
 
-    border-radius: 10px;
+    --bg-dark-color:#0A0508;
+    --bg-darker-color:#24070C;
 
-    z-index: -1;
+    --text-btn-primary-color:#FFFFFF;
+
+    --card-header-primary-text-color:#F5F5F5;
+
+    --bg-promo-btn:#C0C0C0;
+    --text-color-promo-btn:#1A1A1A;
+
+    --bg-info-content:#2E2E2E;
+
+    --bg-accent-color:#8B1E2D;
+    --bg-secondary-color:#5F5F5F;
+    --bg-success-color:#6A1421;
+    --bg-danger-color:#4A0E18;
+    --bg-warning-color:#8B1E2D;
+    --bg-info-color:#C0C0C0;
+
+    --border-primary:#C0C0C0;
+
+    --bg-light-color:#F5F5F5;
 }
 
-
-.btn:hover {
-
-    animation:
-        glowPulse 1s infinite;
-
-    transform:
-        translateY(-2px);
-}
-
-
-/* =========================================
-   ROTATING BORDER
-========================================= */
-
-@keyframes rotateBorder {
-
-    to {
-        transform:
-            rotate(360deg);
-    }
-}
-
-
-/* =========================================
-   BLOOD + SILVER GLOW
-========================================= */
-
-@keyframes glowPulse {
-
-    0% {
-
-        box-shadow:
-            0 0 18px rgba(139,0,0,.65),
-            0 0 35px rgba(139,0,0,.35);
-    }
-
-    50% {
-
-        box-shadow:
-            0 0 25px rgba(210,210,210,.75),
-            0 0 50px rgba(139,0,0,.75),
-            0 0 85px rgba(100,0,0,.35);
-    }
-
-    100% {
-
-        box-shadow:
-            0 0 18px rgba(139,0,0,.65),
-            0 0 35px rgba(139,0,0,.35);
-    }
-}
-
-
-/* =========================================
-   SECTION BUTTONS
-========================================= */
-
-.section-buttons {
-
-    display: flex;
-
-    flex-direction: column;
-
-    gap: 12px;
-
-    width: 100%;
-}
-
-
-/* =========================================
-   BADGE CONTAINER
-========================================= */
-
-.badge-container {
-
-    display: flex;
-
-    gap: 8px;
-
-    flex-wrap: wrap;
-
-    justify-content: center;
-}
-
-
-/* =========================================
-   BADGE
-========================================= */
-
-.badge {
-
-    flex: 1 1 30%;
-
-    display: inline-block;
-
-    text-decoration: none;
-
-    text-align: center;
-
-    padding: 10px 12px;
-
-    border-radius: 10px;
-
-    font-weight: 700;
-
-    letter-spacing: .2px;
-
-    border:
-        2px solid transparent;
-
-    transition:
-        all .25s ease;
-
-    position: relative;
-
-    overflow: hidden;
-
-    color: #ffffff;
-
-    background: #050000;
-
-    z-index: 1;
-
-    font-size: 12px;
-
-    text-shadow:
-        0 1px 2px #000;
-}
-
-
-/* =========================================
-   BADGE BORDER
-========================================= */
-
-.badge::before {
-
-    content: "";
-
-    position: absolute;
-
-    top: -3px;
-    left: -3px;
-    right: -3px;
-    bottom: -3px;
-
-    background:
-        conic-gradient(
-            from 0deg,
-            #280000,
-            #600000,
-            #8b0000,
-            #b01010,
-            #888888,
-            #d8d8d8,
-            #ffffff,
-            #c0c0c0,
-            #8b0000,
-            #4b0000,
-            #280000
-        );
-
-    border-radius: 12px;
-
-    z-index: -1;
-
-    filter:
-        blur(5px);
-
-    animation:
-        rotateBorder 3s linear infinite;
-}
-
-
-/* =========================================
-   BADGE INNER
-========================================= */
-
-.badge::after {
-
-    content: "";
-
-    position: absolute;
-
-    top: 3px;
-    left: 3px;
-    right: 3px;
-    bottom: 3px;
-
-    background:
-        linear-gradient(
-            180deg,
-            #320000,
-            #520000,
-            #0a0000
-        );
-
-    border-radius: 8px;
-
-    z-index: -1;
-}
-
-
-.badge:hover {
-
-    animation:
-        glowPulse 1.2s infinite;
-
-    transform:
-        scale(1.05);
-}
-
-
-/* =========================================
-   FOOTER
-========================================= */
-
-.footer {
-
-    text-align: center;
-
-    color: #ffffff;
-
-    font-size: 12px;
-
-    padding: 8px 0 0;
-
-    margin-top: 8px;
-
-    position: relative;
-
-    z-index: 1;
-
-    text-shadow:
-        0 1px 2px #000;
-}
-
-
-.footer b {
-
-    color: var(--silver-light);
-
-    text-shadow:
-        0 0 5px rgba(220,220,220,.5);
-}
-
-
-/* =========================================
-   MOBILE
-========================================= */
-
-@media (max-width: 480px) {
-
-    body {
-        padding: 12px;
-    }
-
-    .card {
-
-        padding: 16px;
-
-        border-radius: 15px;
-    }
-
-    .btn {
-
-        padding: 12px 10px;
-
-        font-size: 14px;
-    }
-
-    .badge {
-
-        font-size: 11px;
-
-        padding: 9px 8px;
-    }
-}
-
-</style>
-</head>
-
-<body>
-<div class="shell">
-
-  <!-- LOGO -->
-  <header class="header">
-    <amp-img
-      class="logo"
-      src="https://sby.p-balap.info/img/sibayaktotologo.webp"
-      width="190" height="60" layout="fixed"
-      alt="SITUS SIBAYAKTOTO - Logo">
-    </amp-img>
-  </header>
-
-  <div class="marquee-wrapper">
-    <div class="marquee-text">
-      SELAMAT DATANG DI Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya
-    </div>
-  </div>
-
-
-  <section class="card hero">
-    <amp-img
-      class="hero-img"
-      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp"
-      width="1024" height="1024" layout="responsive"
-      alt="SITUS SIBAYAKTOTO">
-    </amp-img>
-
-
-    <div class="cta">
-      <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">LOGIN</a>
-      <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">DAFTAR</a>
-    </div>
-<div class="cta">
- <a class="btn" href="https://p-balap.info/short-link/sbygacor" target="_blank">SITUS SLOT GACOR HARI INI</a>
+      @font-face {
+        font-family: "Advanced Dot Digital-7";
+        font-style: normal;
+        font-weight: 400;
+        src: local("Advanced Dot Digital-7"), url("https://fonts.cdnfonts.com/s/26574/advanced_dot_digital-7.woff")format("woff")
+      }
+
+      *,
+      :after,
+      :before {
+        box-sizing: border-box
+      }
+
+      html {
+        font-family: sans-serif;
+        line-height: 1.15;
+        text-size-adjust: 100%;
+        height: 100%;
+        font-size: 0.9rem;
+        -webkit-tap-highlight-color: var(--mitragame-bg-color)
+      }
+
+      body {
+        position: relative;
+        min-height: 100%;
+        margin: 0;
+        font-family: "Exo 2", sans-serif;
+        font-size: 1.05rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+        background-color: #2b0404;
+        color: var(--text-common-color)
+      }
+
+      iframe,
+      amp-img,
+      object,
+      svg,
+      video {
+        vertical-align: middle
+      }
+
+      .custom-background {
+        background-image: url();
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed
+      }
+
+      amp-img {
+        max-width: 100%;
+        height: auto
+      }
+
+      .size-width {
+        width: 900px;
+        max-width: 100%
+      }
+
+      .ff {
+        margin: 0 auto;
+        box-shadow: 0 0 10px -1px var(--primary-color);
+        background-color: var(--bg-dark-color);
+        padding-top: 63px;
+        padding-bottom: 90px
+      }
+
+      .ff .te {
+        width: 900px;
+        max-width: 100%;
+        margin: 0 auto;
+        z-index: 1031
+      }
+
+      .te {
+        background-color: #2b0404;
+        box-shadow: 0 0 10px -4px var(--primary-color);
+        max-width: 100%;
+        margin: 0 auto
+      }
+
+      hr {
+        box-sizing: content-box;
+        height: 0;
+        overflow: visible;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border-width: 0;
+        border-style: none;
+        border-color: initial;
+        border-image: initial;
+        border-top: 1px solid rgba(0, 0, 0, 0.1)
+      }
+
+      dt {
+        margin-bottom: 0.5rem
+      }
+
+      dd {
+        margin-inline-start: 20px
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        margin-top: 1.2rem;
+        margin-bottom: 0.8rem;
+        font-weight: 500;
+        line-height: 1.2
+      }
+
+      h1 {
+        font-size: 2.1rem
+      }
+
+      h4 {
+        font-size: 1.2rem
+      }
+
+      p,
+      ul {
+        margin-top: 0;
+        margin-bottom: 1rem
+      }
+
+      .text-bold {
+        font-weight: bold
+      }
+
+      a {
+        color: var(--primary-color);
+        text-decoration: none
+      }
+
+      a:hover {
+        color: var(--tertiary-color)
+      }
+
+      .jd {
+        text-align: center
+      }
+
+      .kd {
+        font-weight: 700
+      }
+
+      .text-common {
+        color: var(--text-common-color)
+      }
+
+      .p-0 {
+        padding: 0
+      }
+
+      .px-0 {
+        padding-left: 0;
+        padding-right: 0
+      }
+
+      .py-025 {
+        padding-top: 0.25rem;
+        padding-bottom: 0.25rem
+      }
+
+      .px-025 {
+        padding-left: 0.25rem;
+        padding-right: 0.25rem
+      }
+
+      .py-05 {
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem
+      }
+
+      .px-05 {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem
+      }
+
+      .p-025 {
+        padding: 0.25rem
+      }
+
+      .p-05 {
+        padding: 0.5rem
+      }
+
+      .p-1 {
+        padding: 1rem
+      }
+
+      .px--05 {
+        padding-right: -0.5rem;
+        padding-left: -0.5rem
+      }
+
+      .m-0 {
+        margin: 0
+      }
+
+      .m-025 {
+        margin: 0.25rem
+      }
+
+      .m-05 {
+        margin: 0.5rem
+      }
+
+      .mt-05 {
+        margin-top: 0.5rem
+      }
+
+      .mb-025 {
+        margin-bottom: 0.25rem
+      }
+
+      .mb-05 {
+        margin-bottom: 0.5rem
+      }
+
+      .mx-auto {
+        margin-right: auto;
+        margin-left: auto
+      }
+
+      .mx--05 {
+        margin-right: -0.5rem;
+        margin-left: -0.5rem
+      }
+
+      .mt-05 {
+        margin-top: 0.5rem
+      }
+
+      .w-24 {
+        width: 6rem
+      }
+
+      .h-24 {
+        height: 6rem
+      }
+
+      .h-auto {
+        height: auto
+      }
+
+      .w-50 {
+        width: 50%
+      }
+
+      .relative {
+        position: relative
+      }
+
+      .rounded-md {
+        border-radius: 0.25rem
+      }
+
+      .rounded-lg {
+        border-radius: 0.5rem
+      }
+
+      .text-center {
+        text-align: center
+      }
+
+      .items-center {
+        align-items: center
+      }
+
+      .text-highlight {
+        color: var(--text-highlight-color)
+      }
+
+      .text-highlight-icon {
+        color: var(--bg-promo-btn)
+      }
+
+      .font-bold {
+        font-weight: 700
+      }
+
+      .text-lg {
+        font-size: 1.4rem;
+        line-height: 2rem
+      }
+
+      .text-dn {
+        text-decoration: none
+      }
+
+      .title-underline {
+        position: relative;
+        height: 1px;
+        margin-bottom: 1.3rem
+      }
+
+      .title-underline:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 30%;
+        right: 30%;
+        width: 40%;
+        height: 1px;
+        background-image: var(--infobar-linear-gradient-color)
+      }
+
+      .title-underline:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: -4px;
+        left: calc(50% - 5px);
+        width: 10px;
+        height: 10px;
+        transform: rotate(45deg);
+        background-color: var(--text-highlight-color);
+        border-bottom: 1px solid var(--text-highlight-color);
+        border-right: 1px solid var(--text-highlight-color)
+      }
+
+      .w-full {
+        width: 100%
+      }
+
+      .flex {
+        display: flex
+      }
+
+      .flex-row {
+        flex-direction: row
+      }
+
+      .flex-col {
+        flex-direction: column
+      }
+
+      .justify-center {
+        justify-content: center
+      }
+
+      .absolute {
+        position: absolute
+      }
+
+      .truncate,
+      .whitespace-nowrap {
+        white-space: nowrap
+      }
+
+      nav amp-img {
+        max-width: 100%;
+        width: 100%
+      }
+
+      .y {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.64rem 1rem
+      }
+
+      .ec {
+        top: 0;
+        position: fixed;
+        right: 0;
+        left: 0;
+        z-index: 1030
+      }
+
+      .vb {
+        display: block
+      }
+
+      .bb {
+        padding: 0.5rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1;
+        font-weight: 600;
+        background-color: var(--primary-color);
+        background: var(--infobar-linear-gradient-color);
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+        color: #fff;
+        border-color: hsla(0, 0%, 100%, 0.1)
+      }
+
+      .bb:focus,
+      .bb:hover {
+        background: var(--tertiary-color)
+      }
+
+      .marquee-container {
+        margin: 0;
+        margin-top: 4px
+      }
+
+      .info-area {
+        position: relative;
+        width: 100%;
+        background-image: var(--infobar-linear-gradient-color)
+      }
+
+      .info-area:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        border-top: 2px solid var(--border-primary);
+        border-bottom: 1px solid var(--border-primary);
+        left: 0;
+        width: calc(100% - 35px);
+        height: 100%;
+        background-color: var(--bg-info-content);
+        transform: skew(-35deg, 0deg);
+        transform-origin: bottom left
+      }
+
+      .marquee-item {
+        display: none
+      }
+
+      .info-bar {
+        position: relative;
+        font-size: 1.1rem;
+        color: var(--text-common-color);
+        background-image: var(--infobar-linear-gradient-color);
+        margin-right: 35px
+      }
+
+      .info-bar:after,
+      .info-bar:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        height: 100%;
+        background-image: var(--infobar-linear-gradient-color);
+        transform: skew(-35deg, 0deg);
+        transform-origin: bottom left
+      }
+
+      .info-bar:before {
+        left: 0;
+        width: 100%
+      }
+
+      .info-bar:after {
+        right: -15px;
+        width: 10px
+      }
+
+      .info-bar .info-bar-text {
+        position: relative
+      }
+
+      .info-text {
+        white-space: nowrap;
+        overflow: hidden;
+        box-sizing: border-box;
+        flex: 0 0 calc(100% - 100px);
+        max-width: 100%;
+        z-index: 1
+      }
+
+      .marquee {
+        flex: 0 0 auto;
+        min-width: 100%;
+        z-index: 1;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        animation: marquee 30s linear infinite
+      }
+
+      @keyframes marquee {
+        0% {
+          transform: translateX(100%)
+        }
+
+        100% {
+          transform: translateX(-100%)
+        }
+      }
+
+      .lb {
+        position: relative;
+        width: 100%;
+        overflow: hidden
+      }
+
+      .lb:after {
+        display: block;
+        clear: both;
+        content: ""
+      }
+
+      .lb amp-img {
+        display: block;
+        padding: 0.5rem;
+        border-radius: 1rem;
+        width: 100%
+      }
+
+      .k {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-right: -10px;
+        margin-left: -10px
+      }
+
+      .l {
+        margin-right: 0;
+        margin-left: 0
+      }
+
+      .l>.m {
+        padding-right: 0;
+        padding-left: 0
+      }
+
+      .m,
+      .n,
+      .o {
+        position: relative;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px
+      }
+
+      .m {
+        flex-basis: 0px;
+        flex-grow: 1;
+        max-width: 100%
+      }
+
+      .mb {
+        position: relative;
+        display: block;
+        float: left;
+        width: 100%;
+        margin-right: -100%;
+        backface-visibility: hidden;
+        transition: transform 0.6s ease-in-out 0s;
+        transition: none 0s ease 0s
+      }
+
+      .mb amp-img {
+        border: 7px solid transparent
+      }
+
+      .s {
+        display: block;
+        width: 100%
+      }
+
+      .buttom {
+        display: inline-block;
+        font-weight: 400;
+        color: var(--text-btn-primary-color);
+        text-align: center;
+        vertical-align: middle;
+        user-select: none;
+        padding: 0.45rem 0.75rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        border-radius: 0;
+        transition: color 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        transition: none 0s ease 0s;
+        border-width: 0;
+        border-style: none;
+        border-color: initial;
+        border-image: initial
+      }
+
+      .masuk {
+        color: var(--text-btn-primary-color);
+        background: var(--infobar-linear-gradient-color-alpha)
+      }
+
+      .daftar {
+        color: var(--text-btn-primary-color);
+        background: var(--infobar-linear-gradient-color)
+      }
+
+      .masuk:active,
+      .masuk:focus,
+      .masuk:hover,
+      .daftar:active,
+      .daftar:focus,
+      .daftar:hover {
+        font-weight: 600;
+        color: var(--navbar-bg-color)
+      }
+
+      .qd,
+      .rd {
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        line-height: 1
+      }
+
+      .sd {
+        font-size: 2em
+      }
+
+      .td {
+        font-size: 2em
+      }
+
+      .ud:before {
+        content: ""
+      }
+
+      .vd:before {
+        content: ""
+      }
+
+      .wd:before {
+        content: ""
+      }
+
+      .xd:before {
+        content: ""
+      }
+
+      .yd:before {
+        content: ""
+      }
+
+      .zd:before {
+        content: ""
+      }
+
+      .ae:before {
+        content: ""
+      }
+
+      .be:before {
+        content: "\f590"
+      }
+
+      @font-face {
+        font-family: Font Awesome\5 Free;
+        font-style: normal;
+        font-weight: 400;
+        font-display: auto;
+        src: url(https://m-g.io/istanacasino.com/38b05dab.eot)format("embedded-opentype"), url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-brands-400.woff2)format("woff2"), url(https://m-g.io/istanacasino.com/82875b3e.woff) format("woff"), url(https://m-g.io/istanacasino.com/2833f486.ttf) format("truetype"), url(https://m-g.io/istanacasino.com/ab32d5ac.svg) format("svg")
+      }
+
+      @font-face {
+        font-family: Font Awesome\5 Free;
+        font-style: normal;
+        font-weight: 900;
+        font-display: auto;
+        src: url(https://m-g.io/istanacasino.com/acee4f1e.eot)format("embedded-opentype"), url(https://m-g.io/istanacasino.com/07bed153.woff2) format("woff2"), url(https://m-g.io/istanacasino.com/0f6fcbf4.woff) format("woff"), url(https://m-g.io/istanacasino.com/b7f728ec.ttf) format("truetype"), url(https://m-g.io/istanacasino.com/c3b7af3b.svg) format("svg")
+      }
+
+      .rd {
+        font-family: Font Awesome\5 Free
+      }
+
+      @font-face {
+        font-family: Games Icon;
+        font-style: normal;
+        font-weight: 900;
+        font-display: auto;
+        src: url(https://m-g.io/istanacasino.com/f4966828.eot)format("embedded-opentype"), url(https://m-g.io/istanacasino.com/75c41c48.woff) format("woff"), url(https://m-g.io/istanacasino.com/cfac6de2.ttf) format("truetype"), url(https://m-g.io/istanacasino.com/2a0f42b6.svg) format("svg")
+      }
+
+      .qd,
+      .rd {
+        font-weight: 900
+      }
+
+      .qd {
+        font-family: Games Icon
+      }
+
+      .be:before {
+        content: ""
+      }
+
+      .ce:before {
+        content: ""
+      }
+
+      .de:before {
+        content: ""
+      }
+
+      .ee:before {
+        content: ""
+      }
+
+      .fe:before {
+        content: ""
+      }
+
+      .ge:before {
+        content: ""
+      }
+
+      .ye {
+        background-color: var(--darkest-color);
+        border: 1px solid var(--border-primary);
+        margin: 0.5rem;
+        border-radius: 9999px
+      }
+
+      .g {
+        font-size: 0.9rem;
+        font-weight: 400
+      }
+
+      .ye a:active,
+      .ye a:focus,
+      .ye a:hover {
+        color: var(--text-highlight-color);
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s
+      }
+
+      .jacpot {
+        background-color: var(--darkest-color);
+        border: 1px solid var(--border-primary);
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem
+      }
+
+      .fb {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        background-color: var(--dark-color);
+        background-clip: border-box;
+        border: 1px solid rgba(0, 0, 0, 0.125);
+        border-radius: 0.25rem
+      }
+
+      .id {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap
+      }
+
+      .ie {
+        background-color: transparent;
+        background: linear-gradient(to right, transparent, var(--primary-color) 50%, transparent);
+        border-color: var(--tertiary-color)
+      }
+
+      .je {
+        width: 100%;
+        letter-spacing: 5px;
+        padding: 16px
+      }
+
+      .je>div {
+        background-color: var(--text-nav);
+        box-shadow: inset 0 0 2px 1px var(--darkest-color);
+        font-family: "Advanced Dot Digital-7", sans-serif
+      }
+
+      .jp-size {
+        color: var(--jackpot-number-color);
+        font-size: 2.1rem;
+        line-height: 2.5rem;
+        letter-spacing: 1px
+      }
+
+      .dc {
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        align-items: center
+      }
+
+      .me {
+        width: 100%;
+        height: 10px;
+        padding: 0 3px;
+        left: 0
+      }
+
+      .me.ne {
+        top: 3px
+      }
+
+      .me.oe {
+        bottom: 3px
+      }
+
+      .ke,
+      .le {
+        background-color: var(--tertiary-color);
+        border-radius: 50%
+      }
+
+      .ke {
+        width: 10px;
+        height: 10px;
+        animation: a 1s ease 0s infinite normal none running
+      }
+
+      .le {
+        width: 5px;
+        height: 5px;
+        animation: a 1s steps(1) 0s infinite normal none running
+      }
+
+      @keyframes a {
+        50% {
+          background-color: var(--text-common-color)
+        }
+      }
+
+      table {
+        width: 100%;
+        border-radius: 12px
+      }
+
+      td {
+        background: var(--darkest-color);
+        border-color: #0e0e0e;
+        border-radius: 12px;
+        padding: 10px
+      }
+
+      td:first-child {
+        width: 35%
+      }
+
+      .k-jackpot {
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        margin-right: -10px;
+        margin-left: -10px;
+        overflow: hidden
+      }
+
+      .k-jackpot .n {
+        padding-left: 0.3rem;
+        padding-right: 0.3rem
+      }
+
+      .hotgames {
+        flex: 0 0 25%;
+        max-width: 16.65%
+      }
+
+      .rekomendasi {
+        flex: 0 0 33.33%;
+        max-width: 33.33%
+      }
+
+      .sports {
+        flex: 0 0 50%;
+        max-width: 50%
+      }
+
+      .pools {
+        flex: 0 0 16.66%;
+        max-width: 16.66%
+      }
+
+      .sb {
+        border-color: var(--border-primary);
+        border-top: 4px solid var(--tertiary-color);
+        border-bottom: 2px solid var(--tertiary-color)
+      }
+
+      .hf {
+        border: 3px solid transparent
+      }
+
+      .ib {
+        padding: 0.5rem 0.25rem;
+        background-color: var(--tertiary-color);
+        border-top: 1px solid rgba(0, 0, 0, 0.125)
+      }
+
+      .pools amp-img {
+        width: 75px
+      }
+
+      .if {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        position: absolute;
+        top: 6px;
+        right: 6px;
+        box-shadow: 0 0 2px 2px var(--bg-success-color);
+        background-color: var(--bg-success-color)
+      }
+
+      .bank {
+        flex: 0 0 17%;
+        max-width: 17%
+      }
+
+      .bank amp-img {
+        width: 100%
+      }
+
+      .i {
+        padding: 0.1rem;
+        background-color: #fff;
+        border: 1px solid var(--text-common-color);
+        border-radius: 0.5rem
+      }
+
+      .ef {
+        border-bottom-width: 3px;
+        border-color: #30f95e
+      }
+
+      .nav-bottom {
+        position: fixed;
+        margin: 0 auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: var(--infobar-linear-gradient-color);
+        z-index: 40;
+        border-top-width: 1px;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem
+      }
+
+      .nav-bottom>ul {
+        list-style-type: none
+      }
+
+      .nav-bottom>ul>li {
+        flex-basis: 0px;
+        flex-grow: 1;
+        font-size: 0.75rem;
+        line-height: 1rem
+      }
+
+      .nav-bottom>ul>li>a {
+        color: #fff;
+        white-space: nowrap;
+        font-size: 0.75rem;
+        line-height: 1rem;
+        font-weight: 600;
+        text-transform: uppercase
+      }
+
+      .bg-promo-button {
+        background: var(--bg-promo-btn);
+        color: var(--bg-danger-color)
+      }
+
+      .nav-bottom>ul>li>a:hover {
+        color: var(--text-common-color);
+        background-color: var(--darkest-color);
+        border-color: var(--dark-color);
+        border-top-left-radius: 0.375rem;
+        border-top-right-radius: 0.375rem
+      }
+
+      .blink {
+        animation: blink 1.2s linear infinite
+      }
+
+      @keyframes blink {
+        0% {
+          opacity: 0
+        }
+
+        50% {
+          opacity: 0.8
+        }
+
+        100% {
+          opacity: 2.5
+        }
+
+        50% {
+          opacity: 0.8
+        }
+      }
+
+      @media only screen and (max-width: 720px) {
+        .pools {
+          flex: 0 0 20%;
+          max-width: 20%
+        }
+      }
+
+      @media only screen and (max-width: 600px) {
+        .jp-size {
+          font-size: 1.18rem;
+          line-height: 1.7rem
+        }
+
+        .k-hotGame .n {
+          padding-left: 0.25rem;
+          padding-right: 0.25rem
+        }
+
+        .n {
+          max-width: 17%
+        }
+
+        .pools {
+          flex: 0 0 25%;
+          max-width: 25%
+        }
+
+        .pools amp-img {
+          width: 70px
+        }
+
+        .pools p {
+          font-size: 0.8rem
+        }
+
+        .pools .g {
+          font-size: 0.8rem
+        }
+      }
+
+      @media only screen and (max-width: 360px) {
+        .jp-size {
+          font-size: 0.9rem;
+          line-height: 1rem
+        }
+
+        .pools {
+          flex: 0 0 33.33%;
+          max-width: 33.33%
+        }
+      }
+    </style>
+    <script type="application/ld+json" nonce="MjEwODAyNDA2NywzOTExNjY5MzY2">{"@context":"http://schema.org","@type":"Game","name":"SIBAYAKTOTO","author":{"@type":"Person","name":"SIBAYAKTOTO"},"headline":"Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya","description":"Main Slot 4D di SIBAYAKTOTO, platform resmi situs gacor terpercaya. Raih kemenangan besar hari ini dengan permainan slot jackpot gacor maksimal!","keywords":["SIBAYAKTOTO"],"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp","url":"/","publisher":{"@type":"Organization","name":"SIBAYAKTOTO"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"99","bestRating":"99","worstRating":"0","ratingCount":"799999"},"inLanguage":"id-ID"}</script>
+  </head>
+  <body class="custom-background">
+    <div class="size-width ff">
+      <nav class="y eb ec te">
+        <a href="https://p-balap.info/short-link/sbygacor">
+          <amp-img src="https://sby.p-balap.info/img/sibayaktotologo.webp" alt="SIBAYAKTOTO" width="150" height="50" layout="fixed"></amp-img>
+        </a>
+        <a href="https://p-balap.info/short-link/sbygacor" rel="noreferrer noopener" target="_blank">
+          <span class="bb vb b c blink">
+            <i class="rd ae qc"></i> JOIN NOW </span>
+        </a>
+      </nav>
+      <div class="flex flex-row m-0">
+        <div class="flex flex-row info-area align-items-center m-0 text-common">
+          <ul class="marquee-item"></ul>
+          <div class="info-bar px-05 py-025">
+            <div class="info-bar-text">
+              <i class="fas fa-bullhorn"></i>
+            </div>
+          </div>
+          <div class="info-text text-common">
+            <div class="text-common mt-1 marquee-container">
+              <div class="marquee">
+                <div class="w-full">
+                  <span>Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lb">
+        <div class="mb">
+          <amp-img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXy__ZKKhyc6KPehUsY9SdhYMDMxOdeVs7rwoVa1FWt8-XF8XsM0muX6WeRGjXWjaMbwiW2UcplzxAE5bBoj27vNhkIQb7qyMHYBeU2SYkjElaCWIVdOhHcMUmc9dvwnTkX4iP65o72ajqW4DgfOHAsVjREzCy8LwElqn36BMwxKJYoAHtrXOpuErydSo/s800/situsgacor4d.webp" alt="SIBAYAKTOTO" width="800" height="800" layout="responsive"></amp-img>
+        </div>
+      </div>
+      <div class="k l">
+        <div class="m">
+          <a href="https://p-balap.info/short-link/sbygacor" rel="noreferrer noopener" target="_blank" class="buttom masuk s">
+            <i class="rd xd qc"></i> MASUK </a>
+        </div>
+        <div class="m">
+          <a href="https://p-balap.info/short-link/sbygacor" rel="noreferrer noopener" target="_blank" class="buttom daftar s">
+            <i class="rd ae qc"></i> DAFTAR </a>
+        </div>
+      </div>
+      <div class="k l text-center ye g p-025">
+        <div class="m py-05">
+          <a href="https://p-balap.info/short-link/sbygacor" title="Togel" class="flex flex-col text-common text-dn">
+            <i class="qd td de nc"></i>TOGEL </a>
+        </div>
+        <div class="m py-05">
+          <a href="https://p-balap.info/short-link/sbygacor" title="Slot" class="flex flex-col text-common text-dn">
+            <i class="qd td ee nc"></i>SLOT </a>
+        </div>
+        <div class="m py-05">
+          <a href="https://p-balap.info/short-link/sbygacor" title="Casino" class="flex flex-col text-common text-dn">
+            <i class="qd td ce nc"></i>CASINO </a>
+        </div>
+        <div class="m py-05">
+          <a href="https://p-balap.info/short-link/sbygacor" title="Arcade" class="flex flex-col text-common text-dn">
+            <i class="qd td be nc"></i>ARCADE </a>
+        </div>
+        <div class="m py-05">
+          <a href="https://p-balap.info/short-link/sbygacor" title="Bola" class="flex flex-col text-common text-dn">
+            <i class="qd td fe nc"></i>BOLA </a>
+        </div>
+      </div>
+      <div class="px-025">
+        <div class="jacpot text-center">
+          <div class="text-common">
+            <span class="text-lg font-bold">
+              <i class="fa-solid fa-bolt text-highlight-icon"></i> PROGRESIVE <span class="text-highlight">JACKPOT</span>
+            </span>
+            <div class="title-underline mt-05"></div>
+          </div>
+          <div class="fb ie items-center">
+            <div class="je m-0">
+              <div class="py-05 m-0">
+                <span id="progressive_jackpot" class="jp-size">975.568.228,197</span>
+              </div>
+            </div>
+            <div class="dc me ne">
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+            </div>
+            <div class="dc wb flex-col yb ac pe re">
+              <span class="le"></span>
+            </div>
+            <div class="dc me oe">
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+              <span class="le"></span>
+              <span class="ke"></span>
+            </div>
+            <div class="dc wb flex-col yb ac pe qe">
+              <span class="le"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="p-1">
+        <h1 class="nd kd"><span class="text-highlight">Slot 4D SIBAYAKTOTO : Platform Resmi Situs Gacor 4D & Slot Jackpot Hari Ini Terpercaya<span class="text-highlight"></span></h1>
+        <p><a href="https://www.ledijournals.com/ojs/">SIBAYAKTOTO</a> hadir sebagai platform resmi situs <a href="https://www.ledijournals.com/ojs/">slot 4D</a> dan slot jackpot yang terpercaya di Indonesia. Dengan fokus pada permainan slot gacor dan slot 4D, situs ini menawarkan pengalaman bermain yang aman, nyaman, serta peluang kemenangan yang tinggi setiap harinya. Banyak pemain memilih SIBAYAKTOTO karena reputasinya yang sudah terbukti dan sistem yang transparan.</p>
+        <p>Di SIBAYAKTOTO, Anda bisa menemukan berbagai pilihan permainan slot terbaru yang dikenal gacor, lengkap dengan fitur jackpot maksimal. Selain itu, tersedia juga permainan <a href="https://www.ledijournals.com/ojs/">4D</a> yang mudah dimainkan dan berpotensi memberikan hasil besar. Proses deposit dan penarikan dilakukan secara cepat melalui berbagai metode pembayaran, sehingga pemain tidak perlu menunggu lama untuk menikmati kemenangan.</p>
+        <p>Bagi Anda yang mencari situs slot 4D terpercaya hari ini, SIBAYAKTOTO menjadi pilihan tepat. Daftar sekarang, rasakan sensasi bermain di platform resmi yang mengutamakan kenyamanan dan peluang menang. Jangan lewatkan kesempatan meraih <a href="https://www.ledijournals.com/ojs/">jackpot</a> besar hanya di SIBAYAKTOTO.</p>
+        
+        <table>
+        <tbody>
+            <tr>
+                <td><b>NAMA SITUS</b></td>
+                <td>SIBAYAKTOTO</td>
+            </tr>
+            <tr>
+                <td><b>MINIMAL DEPOSIT</b></td>
+                <td>5,000 IDR</td>
+            </tr>
+            <tr>
+                <td><b>Minimal Withdraw</b></td>
+                <td>25,000 IDR</td>
+            </tr>
+            <tr>
+                <td><b>METODE TRANSAKSI</b></td>
+                <td>BANK, E-WALLET, PULSA.</td>
+            </tr>
+            <tr>
+                <td><b>Rating Situs</b></td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-  </section>
-  <footer class="footer"> 
-    <div class="copyright">
-      © 2026 SIBAYAKTOTO. ✓ All Rights Reserved By. <br><b style="color:#ca0000; font-weight:700;">SEO NAKAL-TEAM X GOZIAW</b>
+    <div class="size-width nav-bottom">
+      <ul class="flex flex-row w-full p-025 m-0">
+        <li class="text-center">
+          <a class="px-025 flex flex-col text-common p-05" href="https://p-balap.info/short-link/sbygacor" target="_blank">
+            <i class="fas text-lg fa-home"></i>Login </a>
+        </li>
+    
+     <li class="text-center">
+          <a class="px-025 flex flex-col text-common p-05" href="https://p-balap.info/short-link/SibayakAPK/" target="_blank">
+            <i class="fas text-lg fa-user"></i>DOWNLOAD APK</a>
+        </li>
+    
+        <li class="text-center">
+          <a class="px-025 flex flex-col text-common p-05" href="https://p-balap.info/short-link/sbygacor" target="_blank">
+            <i class="fas text-lg fa-user-plus"></i>Daftar </a>
+        </li>
+       
+        </li>
+      </ul>
     </div>
-	
-  </footer>
-
-</div>
-</body>
+  </body>
 </html>
