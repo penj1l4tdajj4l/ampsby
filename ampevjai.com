@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html amp lang="id">
 <head>
-  <link rel="canonical" href="https://revue.univ-oran2.dz/">
+  <link rel="canonical" href="https://evjai.com/">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <meta http-equiv="content-language" content="id">
@@ -307,7 +307,7 @@
       <div class="combo-block">
         <div class="combo-inner">
           <div class="combo-header">
-            <a href="https://revue.univ-oran2.dz/">
+            <a href="https://evjai.com/">
               <amp-img width="140" height="50" layout="fixed" alt="SIBAYAKTOTO" src="https://sby.p-balap.info/img/sibayaktotologo.webp"></amp-img>
             </a>
             <div class="button-container">
