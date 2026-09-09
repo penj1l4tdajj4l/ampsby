@@ -3,7 +3,7 @@
 <!-- Support By : GOZIAW -->
 <head>
   <meta charset="utf-8">
-  <title>SIBAYAKTOTO | Pelayan Setia Bandar Togel Toto 4D & Link Login SIBAYAK TOTO Slot Gacor</title>
+  <title>SIBAYAKTOTO : Pelayan Setia Bandar Togel Toto 4D & Link Login SIBAYAK TOTO Slot Gacor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="SIBAYAKTOTO setia menemani permainan togel toto 4D dan slot gacor kalian dengan link login SIBAYAK TOTO yang lancar, pelayanan ramah, serta pengalaman bermain yang nyaman setiap hari.">
   <meta name="robots" content="index, follow">
@@ -718,7 +718,7 @@ body {
 
   <div class="marquee-wrapper">
     <div class="marquee-text">
-      SELAMAT DATANG DI SIBAYAKTOTO | Pelayan Setia Bandar Togel Toto 4D & Link Login SIBAYAK TOTO Slot Gacor
+      SELAMAT DATANG DI SIBAYAKTOTO : Pelayan Setia Bandar Togel Toto 4D & Link Login SIBAYAK TOTO Slot Gacor
     </div>
   </div>
 
