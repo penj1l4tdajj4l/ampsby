@@ -1,0 +1,2381 @@
+<!DOCTYPE html>
+<html ⚡ lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <title>SIBAYAKTOTO : Link Situs Slot 4D Gacor Resmi Gampang Menang Hari Ini</title>
+    <meta name="description"
+        content="SIBAYAKTOTO adalah link situs slot 4D gacor resmi yang lagi gampang menang hari ini. Mainkan slot favoritmu sekarang dan raih peluang jackpot besar setiap saat!">
+    <link rel="canonical" href="https://revista-andes.cl/ojs/">
+    <link rel="alternate" hreflang="id-ID" href="https://revista-andes.cl/ojs/">
+    <link rel="alternate" hreflang="x-default" href="https://revista-andes.cl/ojs/">
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:title"
+        content="SIBAYAKTOTO : Link Situs Slot 4D Gacor Resmi Gampang Menang Hari Ini">
+    <meta property="og:description"
+        content="SIBAYAKTOTO adalah link situs slot 4D gacor resmi yang lagi gampang menang hari ini. Mainkan slot favoritmu sekarang dan raih peluang jackpot besar setiap saat!">
+    <meta property="og:url" content="https://revista-andes.cl/ojs/">
+    <meta property="og:site_name" content="SIBAYAKTOTO">
+    <meta property="og:image" content="https://cdn.phototourl.com/member/2026-10-04-b68f0f96-86aa-4fff-acd0-3becdeb46764.webp">
+    <meta name="author" content="SIBAYAKTOTO">
+    <meta name="publisher" content="SIBAYAKTOTO">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://revista-andes.cl/ojs/" crossorigin>
+    <link rel="icon" type="image/x-icon"
+        href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rajdhani:wght@500;700&display=swap"
+        rel="stylesheet">
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+
+   <style amp-custom>
+/* =========================================================
+   DARK BLOOD RED × SILVER CHROME THEME
+   LAYOUT & ANIMATION TETAP
+========================================================= */
+
+:root {
+    --bg: #080204;
+    --bg-2: #1b070b;
+    --bg-3: #030102;
+
+    --pink: #8f1528;
+    --pink-bright: #e83b55;
+    --pink-soft: #ffd9de;
+    --pink-deep: #4b0713;
+
+    --electric: #d8dde3;
+
+    --cyan: #b9c0c8;
+    --cyan-bright: #f5f7fa;
+    --cyan-soft: #f1f1f1;
+    --cyan-deep: #727982;
+
+    --silver: #f2f4f7;
+    --silver-dark: #858b93;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* =========================================================
+   BACKGROUND
+========================================================= */
+
+body {
+    min-height: 100vh;
+    font-family: 'Press Start 2P', cursive;
+    color: var(--cyan-soft);
+    position: relative;
+    overflow-x: hidden;
+
+    background:
+        radial-gradient(
+            ellipse at 50% -10%,
+            rgba(135, 8, 28, 0.42),
+            transparent 55%
+        ),
+        radial-gradient(
+            ellipse at 50% 110%,
+            rgba(105, 5, 22, 0.38),
+            transparent 55%
+        ),
+        linear-gradient(
+            180deg,
+            #080204 0%,
+            #21070d 50%,
+            #000000 100%
+        );
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+
+    background:
+        repeating-linear-gradient(
+            to bottom,
+            transparent 0 2px,
+            rgba(255, 255, 255, .025) 2px 3px,
+            transparent 3px 5px
+        ),
+        radial-gradient(
+            ellipse at center,
+            transparent 40%,
+            rgba(0, 0, 0, 0.78) 100%
+        );
+
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* =========================================================
+   TICKER
+========================================================= */
+
+.ticker {
+    position: relative;
+    z-index: 10;
+    max-width: 460px;
+    margin: 24px auto 0;
+    overflow: hidden;
+
+    background:
+        linear-gradient(
+            90deg,
+            #090102 0%,
+            #26050a 50%,
+            #090102 100%
+        );
+
+    border: 1px solid var(--cyan);
+    border-radius: 8px 8px 0 0;
+    border-bottom: none;
+
+    box-shadow:
+        0 0 12px rgba(150, 8, 30, 0.55),
+        0 0 25px rgba(100, 0, 18, 0.28),
+        inset 0 0 8px rgba(0, 0, 0, .7);
+
+    padding: 7px 0;
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 9px;
+    letter-spacing: 1px;
+
+    color: var(--cyan-soft);
+
+    mask-image:
+        linear-gradient(
+            90deg,
+            transparent 0,
+            #000000 6%,
+            #000000 94%,
+            transparent 100%
+        );
+
+    -webkit-mask-image:
+        linear-gradient(
+            90deg,
+            transparent 0,
+            #000000 6%,
+            #000000 94%,
+            transparent 100%
+        );
+}
+
+.ticker-inner {
+    display: inline-block;
+    white-space: nowrap;
+    animation: tickerScroll 24s linear infinite;
+    will-change: transform;
+    padding-left: 100%;
+}
+
+.ticker-inner span {
+    padding: 0 22px;
+}
+
+.ticker-inner .hl {
+    color: var(--silver);
+    text-shadow:
+        0 0 5px rgba(255,255,255,.75),
+        0 0 10px rgba(190,195,200,.45);
+}
+
+.ticker-inner .sep {
+    color: var(--pink-bright);
+    padding: 0 6px;
+    text-shadow:
+        0 0 7px rgba(220,30,55,.85);
+}
+
+@keyframes tickerScroll {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: translate3d(-100%, 0, 0);
+    }
+}
+
+/* =========================================================
+   LIVE PLAYER STRIP
+========================================================= */
+
+.live-strip {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    margin: 0 auto 12px;
+    padding: 5px 14px;
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 8px;
+    letter-spacing: 1.2px;
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(95, 8, 22, .96),
+            rgba(15, 3, 6, .96)
+        );
+
+    border: 1px solid var(--silver);
+    border-radius: 30px;
+
+    box-shadow:
+        0 0 10px rgba(150, 10, 30, .55),
+        0 0 20px rgba(90, 0, 15, .3),
+        inset 0 0 6px rgba(255,255,255,.10);
+}
+
+.live-strip .live-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+
+    background: #e83b55;
+
+    box-shadow:
+        0 0 8px #e83b55,
+        0 0 14px #a70d28;
+
+    animation: dotBlink 1.4s ease-in-out infinite;
+}
+
+.live-strip strong {
+    color: #ffffff;
+    font-size: 10px;
+
+    text-shadow:
+        0 0 6px #e83b55,
+        0 0 12px rgba(220,30,55,.45);
+
+    letter-spacing: .5px;
+}
+
+/* =========================================================
+   CORNER ORNAMENTS
+========================================================= */
+
+.corner {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    pointer-events: none;
+    z-index: 3;
+}
+
+.corner.c-tl {
+    top: -2px;
+    left: -2px;
+    border-top: 3px solid var(--silver);
+    border-left: 3px solid var(--silver);
+    border-top-left-radius: 14px;
+
+    box-shadow:
+        -1px -1px 10px rgba(255,255,255,.55);
+}
+
+.corner.c-tr {
+    top: -2px;
+    right: -2px;
+    border-top: 3px solid var(--silver);
+    border-right: 3px solid var(--silver);
+    border-top-right-radius: 14px;
+
+    box-shadow:
+        1px -1px 10px rgba(255,255,255,.55);
+}
+
+.corner.c-bl {
+    bottom: -2px;
+    left: -2px;
+    border-bottom: 3px solid var(--silver);
+    border-left: 3px solid var(--silver);
+    border-bottom-left-radius: 14px;
+
+    box-shadow:
+        -1px 1px 10px rgba(255,255,255,.55);
+}
+
+.corner.c-br {
+    bottom: -2px;
+    right: -2px;
+    border-bottom: 3px solid var(--silver);
+    border-right: 3px solid var(--silver);
+    border-bottom-right-radius: 14px;
+
+    box-shadow:
+        1px 1px 10px rgba(255,255,255,.55);
+}
+
+/* =========================================================
+   ARCADE FRAME
+========================================================= */
+
+.arcade-frame {
+    position: relative;
+    z-index: 10;
+
+    max-width: 460px;
+    margin: 0 auto 24px;
+
+    background:
+        radial-gradient(
+            circle at top,
+            rgba(150, 8, 30, 0.15),
+            transparent 45%
+        ),
+        linear-gradient(
+            180deg,
+            rgba(10, 2, 4, .97),
+            rgba(27, 6, 11, .97)
+        );
+
+    border: 3px solid var(--silver);
+    border-radius: 14px;
+
+    box-shadow:
+        0 0 18px rgba(130, 5, 25, 0.65),
+        0 0 40px rgba(80, 0, 15, 0.35),
+        inset 0 0 25px rgba(0, 0, 0, .9),
+        inset 0 0 0 1px rgba(255,255,255,.18);
+
+    will-change: transform;
+    transform: translate3d(0, 0, 0);
+    contain: layout paint;
+
+    animation: thunderShake 9s ease-in-out infinite;
+}
+
+/* =========================================================
+   SCREEN
+========================================================= */
+
+.screen {
+    padding: 14px 18px 18px;
+    text-align: center;
+    position: relative;
+}
+
+/* =========================================================
+   TRUST BADGES
+========================================================= */
+
+.badges {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 14px;
+}
+
+.badge {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 7px;
+
+    padding: 5px 8px;
+    border-radius: 4px;
+
+    letter-spacing: 1px;
+    white-space: nowrap;
+
+    border: 1px solid var(--silver-dark);
+
+    background:
+        linear-gradient(
+            135deg,
+            #30060d,
+            #050102
+        );
+
+    color: #ffffff;
+
+    box-shadow:
+        0 0 6px rgba(150, 10, 30, .45),
+        inset 0 0 8px rgba(255,255,255,.04);
+}
+
+.badge.gold {
+    background:
+        linear-gradient(
+            135deg,
+            #f8f8f8,
+            #969ba2,
+            #4d5259
+        );
+
+    color: #080808;
+    border-color: #ffffff;
+
+    text-shadow:
+        0 1px 0 rgba(255,255,255,.55);
+
+    box-shadow:
+        0 0 8px rgba(220,220,220,.55),
+        inset 0 0 8px rgba(255,255,255,.35);
+}
+
+.badge .dot {
+    display: inline-block;
+
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+
+    background: #e83b55;
+
+    box-shadow:
+        0 0 6px #e83b55,
+        0 0 12px rgba(220,30,55,.7);
+
+    vertical-align: middle;
+    margin-right: 5px;
+
+    animation: dotBlink 1.6s ease-in-out infinite;
+}
+
+@keyframes dotBlink {
+    0%,
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: .4;
+        transform: scale(.85);
+    }
+}
+
+/* =========================================================
+   LOGO
+========================================================= */
+
+.logo {
+    margin: 6px 0 16px;
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 1;
+    position: relative;
+    display: inline-block;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #f5f5f5 18%,
+            #8f969e 42%,
+            #ffffff 55%,
+            #777d85 72%,
+            #f8f8f8 100%
+        );
+
+    background-size: 100% 250%;
+    background-position: 0% 0%;
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+
+    -webkit-text-stroke: 1.5px #e9edf1;
+
+    filter:
+        drop-shadow(0 0 7px rgba(190,20,40,.75))
+        drop-shadow(0 0 14px rgba(100,0,15,.45))
+        drop-shadow(0 2px 2px rgba(0,0,0,.95));
+
+    animation: logoShimmer 3.4s ease-in-out infinite;
+}
+
+.logo span {
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #e8e8e8 20%,
+            #a8a8a8 38%,
+            #a10f27 50%,
+            #5c0615 68%,
+            #d72a43 82%,
+            #f2f2f2 100%
+        );
+
+    background-size: 100% 250%;
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+
+    -webkit-text-stroke: 1.5px #ffffff;
+
+    filter:
+        drop-shadow(0 0 7px rgba(160,10,30,.65))
+        drop-shadow(0 2px 2px rgba(0,0,0,.95));
+
+    animation:
+        logoShimmer 3.4s ease-in-out infinite .4s;
+
+    margin-left: 6px;
+}
+
+@keyframes logoShimmer {
+    0%,
+    100% {
+        background-position: 0% 0%;
+    }
+
+    50% {
+        background-position: 0% 100%;
+    }
+}
+
+/* =========================================================
+   HERO IMAGE
+========================================================= */
+
+.hero {
+    position: relative;
+    margin: 0 0 6px;
+}
+
+.hero-media {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+
+    box-shadow:
+        0 0 0 2px var(--silver),
+        0 0 22px rgba(150,10,30,.35),
+        0 0 50px rgba(100,0,20,.22);
+}
+
+.hero-media amp-img {
+    display: block;
+}
+
+/* =========================================================
+   BOOT OVERLAY
+========================================================= */
+
+.boot-overlay {
+    position: absolute;
+    inset: 0;
+
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(190, 20, 45, .18),
+            transparent 55%
+        ),
+        linear-gradient(
+            180deg,
+            #780b1b 0%,
+            #4c0610 55%,
+            #020102 100%
+        );
+
+    z-index: 20;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    animation: bootFadeOut .6s ease-out 2.4s forwards;
+
+    pointer-events: none;
+
+    box-shadow:
+        inset 0 0 60px rgba(0,0,0,.7);
+}
+
+.boot-logo {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 26px;
+
+    color: var(--silver);
+
+    text-shadow:
+        0 0 10px #ffffff,
+        0 0 22px #e83b55,
+        0 0 38px rgba(140,5,30,.8);
+
+    opacity: 0;
+    transform: translateY(-150px);
+
+    animation:
+        logoDrop 1.2s cubic-bezier(.25,1,.5,1) forwards,
+        glitchEffect .25s steps(2) 1.2s 6;
+
+    will-change: transform;
+}
+
+.boot-logo span {
+    font-size: 11px;
+    vertical-align: top;
+    margin-left: 3px;
+
+    color: var(--pink-soft);
+
+    text-shadow:
+        0 0 8px rgba(220,30,55,.8);
+}
+
+@keyframes logoDrop {
+    0% {
+        opacity: 1;
+        transform: translateY(-150px);
+    }
+
+    60% {
+        transform: translateY(8px);
+    }
+
+    80% {
+        transform: translateY(-3px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes glitchEffect {
+    0%,
+    100% {
+        text-shadow:
+            2px 0 #e83b55,
+            -2px 0 #ffffff,
+            0 0 10px #d9d9d9;
+
+        transform: translate(0);
+    }
+
+    25% {
+        text-shadow:
+            -2px 0 #e83b55,
+            2px 0 #ffffff,
+            0 0 14px rgba(255,255,255,.8);
+
+        transform: translate(1px,-1px);
+    }
+
+    50% {
+        text-shadow:
+            2px 0 #e83b55,
+            -2px 0 #ffffff,
+            0 0 18px rgba(210,210,210,.8);
+
+        transform: translate(-1px,1px);
+    }
+}
+
+@keyframes bootFadeOut {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+/* =========================================================
+   MENU
+========================================================= */
+
+.menu {
+    margin-top: 18px;
+    display: block;
+}
+
+.menu a {
+    display: block;
+    position: relative;
+
+    margin: 12px 0;
+    padding: 18px 14px;
+
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+
+    color: var(--cyan-soft);
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(65,5,15,.96),
+            rgba(10,1,3,.97)
+        );
+
+    border: 2px solid var(--silver-dark);
+    border-radius: 6px;
+
+    overflow: hidden;
+
+    transition: transform .15s ease;
+
+    animation: menuBreath 2.6s ease-in-out infinite;
+}
+
+.menu a:nth-child(2) {
+    animation-delay: -.85s;
+}
+
+.menu a:nth-child(3) {
+    animation-delay: -1.7s;
+}
+
+@keyframes menuBreath {
+    0%,
+    100% {
+        border-color: var(--silver-dark);
+        color: var(--cyan-soft);
+
+        box-shadow:
+            0 0 10px rgba(120,5,25,.42),
+            inset 0 0 14px rgba(120,5,25,.08);
+    }
+
+    50% {
+        border-color: var(--silver);
+        color: #ffffff;
+
+        box-shadow:
+            0 0 18px rgba(190,15,40,.60),
+            0 0 32px rgba(90,0,15,.48),
+            inset 0 0 24px rgba(120,5,25,.20);
+    }
+}
+
+.menu a:hover {
+    color: #ffffff;
+    animation-play-state: paused;
+
+    border-color: #ffffff;
+
+    box-shadow:
+        0 0 22px rgba(190,20,45,.72),
+        0 0 42px rgba(100,0,20,.55),
+        inset 0 0 28px rgba(150,8,30,.25);
+}
+
+.menu a:active {
+    transform: scale(.97);
+}
+
+.menu a::after {
+    content: "";
+    position: absolute;
+
+    top: 0;
+    left: -75%;
+
+    width: 50%;
+    height: 100%;
+
+    background:
+        linear-gradient(
+            100deg,
+            transparent 0%,
+            rgba(255,255,255,.35) 50%,
+            transparent 100%
+        );
+
+    transform: skewX(-20deg);
+
+    animation: menuSweep 3.6s ease-in-out infinite;
+
+    pointer-events: none;
+}
+
+.menu a:nth-child(2)::after {
+    animation-delay: 1.2s;
+}
+
+.menu a:nth-child(3)::after {
+    animation-delay: 2.4s;
+}
+
+@keyframes menuSweep {
+    0%,
+    55% {
+        left: -75%;
+    }
+
+    90%,
+    100% {
+        left: 150%;
+    }
+}
+
+/* =========================================================
+   AMAN BADGE
+========================================================= */
+
+.aman-badge {
+    margin: 16px auto 8px;
+    display: inline-block;
+
+    padding: 8px 18px;
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 9px;
+    letter-spacing: 1.5px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #cfd2d6 48%,
+            #737981 100%
+        );
+
+    color: #090909;
+
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+
+    box-shadow:
+        0 0 12px rgba(220,220,220,.65),
+        0 0 24px rgba(130,5,25,.45),
+        inset 0 1px 0 rgba(255,255,255,.8);
+
+    text-shadow:
+        0 1px 0 rgba(255,255,255,.5);
+
+    animation: amanPulse 2s ease-in-out infinite;
+}
+
+.aman-badge .star {
+    color: var(--pink-bright);
+    font-size: 11px;
+    vertical-align: middle;
+}
+
+@keyframes amanPulse {
+    0%,
+    100% {
+        transform: scale(1);
+
+        box-shadow:
+            0 0 12px rgba(220,220,220,.6),
+            0 0 24px rgba(130,5,25,.4),
+            inset 0 1px 0 rgba(255,255,255,.6);
+    }
+
+    50% {
+        transform: scale(1.04);
+
+        box-shadow:
+            0 0 20px rgba(255,255,255,.7),
+            0 0 36px rgba(150,5,30,.55),
+            inset 0 1px 0 rgba(255,255,255,.8);
+    }
+}
+
+/* =========================================================
+   FEATURE GRID
+========================================================= */
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    margin: 14px 0 0;
+}
+
+.feature {
+    background:
+        linear-gradient(
+            180deg,
+            rgba(50,8,16,.85),
+            rgba(0,0,0,.88)
+        );
+
+    border: 1px solid var(--silver-dark);
+    border-radius: 5px;
+
+    padding: 8px 4px 7px;
+
+    text-align: center;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.feature::before {
+    content: "";
+    position: absolute;
+
+    top: -15px;
+    left: 50%;
+
+    width: 30px;
+    height: 30px;
+
+    margin-left: -15px;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(190,20,45,.38),
+            transparent 70%
+        );
+
+    pointer-events: none;
+}
+
+.feature-icon {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+
+    color: var(--silver);
+
+    text-shadow:
+        0 0 6px rgba(255,255,255,.7),
+        0 0 12px rgba(170,10,30,.7);
+
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.feature-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 7px;
+    color: #ffffff;
+
+    letter-spacing: .5px;
+    margin-bottom: 3px;
+    line-height: 1.3;
+}
+
+.feature-sub {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+
+    color: #e6e6e6;
+
+    letter-spacing: .3px;
+    line-height: 1.2;
+}
+
+/* =========================================================
+   PAYMENT STRIP
+========================================================= */
+
+.payments {
+    margin-top: 12px;
+    padding: 10px 8px;
+
+    border: 1px solid var(--silver-dark);
+    border-radius: 6px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(20,3,7,.7),
+            rgba(7,1,3,.78)
+        );
+}
+
+.pay-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 7px;
+
+    color: var(--silver);
+
+    letter-spacing: 1.5px;
+    margin-bottom: 8px;
+
+    text-align: center;
+
+    text-shadow:
+        0 0 6px rgba(255,255,255,.55);
+}
+
+.pay-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px;
+}
+
+.pay {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+
+    letter-spacing: .3px;
+
+    padding: 4px 8px;
+    border-radius: 3px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #d1d4d8 55%,
+            #858a91 100%
+        );
+
+    color: #151515;
+
+    border: 1px solid #f2f2f2;
+
+    box-shadow:
+        0 1px 2px rgba(0,0,0,.65),
+        inset 0 1px 1px rgba(255,255,255,.8);
+
+    line-height: 1;
+}
+
+.pay.mandiri,
+.pay.bni,
+.pay.bri,
+.pay.cimb,
+.pay.dana,
+.pay.ovo,
+.pay.gopay {
+    color: #171717;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #d8dadd 48%,
+            #858a91 100%
+        );
+
+    border-color: #f4f4f4;
+}
+
+/* =========================================================
+   CREDIT TAG
+========================================================= */
+
+.SIBAYAKTOTO {
+    display: inline-block;
+
+    margin-top: 14px;
+    padding: 6px 14px;
+
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+    color: #ffffff;
+    text-transform: uppercase;
+
+    border: 1px solid rgba(255,255,255,.55);
+    border-radius: 4px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #3b0610,
+            #000000
+        );
+
+    box-shadow:
+        0 0 6px rgba(150,10,30,.45),
+        inset 0 0 4px rgba(255,255,255,.1);
+
+    transition: .3s ease;
+}
+
+.SIBAYAKTOTO:hover {
+    color: #ffffff;
+    border-color: var(--silver);
+
+    box-shadow:
+        0 0 12px rgba(220,220,220,.65),
+        0 0 22px rgba(140,5,25,.5);
+}
+
+/* =========================================================
+   SEO CONTENT
+========================================================= */
+
+.seo-content {
+    margin-top: 16px;
+    padding: 14px 4px 0;
+
+    border-top: 2px dashed var(--silver-dark);
+
+    text-align: left;
+}
+
+.seo-content h1 {
+    font-size: 13px;
+    margin: 0 0 10px;
+
+    color: var(--silver);
+
+    text-shadow:
+        0 0 8px rgba(220,220,220,.55),
+        0 0 14px rgba(130,5,25,.45);
+
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.4;
+}
+
+.seo-content p {
+    font-family: 'Rajdhani', sans-serif;
+
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+
+    color: #eeeeee;
+
+    opacity: .95;
+
+    letter-spacing: .3px;
+}
+
+/* =========================================================
+   FOOTER
+========================================================= */
+
+.footer {
+    padding: 12px;
+    text-align: center;
+
+    border-top: 2px solid var(--silver);
+
+    font-size: 9px;
+    letter-spacing: 1.5px;
+
+    color: var(--silver);
+
+    opacity: .9;
+
+    background:
+        linear-gradient(
+            180deg,
+            transparent,
+            rgba(20,2,6,.75)
+        );
+}
+
+/* =========================================================
+   RAIN — FIXED / SILVER VISIBLE
+========================================================= */
+
+.rain-container {
+    position: fixed;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    pointer-events: none;
+
+    /*
+     * Rain di atas background tetapi
+     * tetap di bawah konten utama.
+     */
+    z-index: 7;
+
+    overflow: hidden;
+
+    contain: none;
+
+    isolation: isolate;
+}
+
+/* Semua tetesan */
+.drop {
+    position: absolute;
+
+    top: -15vh;
+
+    width: 2px;
+    height: 85px;
+
+    /*
+     * SILVER PUTIH TERANG
+     */
+    background:
+        linear-gradient(
+            180deg,
+            rgba(255,255,255,0) 0%,
+            rgba(235,235,235,.75) 30%,
+            rgba(255,255,255,1) 72%,
+            rgba(205,205,205,.9) 100%
+        );
+
+    border-radius: 999px;
+
+    /*
+     * Jangan blur besar.
+     * Blur besar membuat hujan terlihat hilang
+     * di background gelap.
+     */
+    filter: none;
+
+    opacity: .9;
+
+    box-shadow:
+        0 0 3px rgba(255,255,255,.95),
+        0 0 7px rgba(225,225,225,.65),
+        0 0 12px rgba(170,10,30,.45);
+
+    animation: rainFall linear infinite;
+
+    will-change: transform, opacity;
+
+    visibility: visible;
+}
+
+/* =========================================================
+   POSISI 30 DROP
+   Ini penting supaya setiap hujan punya posisi horizontal.
+========================================================= */
+
+.drop:nth-child(1)  { left: 2%;  height: 75px; animation-duration: .72s; animation-delay: -.25s; }
+.drop:nth-child(2)  { left: 5%;  height: 95px; animation-duration: .91s; animation-delay: -.61s; }
+.drop:nth-child(3)  { left: 9%;  height: 82px; animation-duration: .68s; animation-delay: -.12s; }
+.drop:nth-child(4)  { left: 13%; height: 110px; animation-duration: .84s; animation-delay: -.73s; }
+.drop:nth-child(5)  { left: 17%; height: 78px; animation-duration: .63s; animation-delay: -.31s; }
+.drop:nth-child(6)  { left: 21%; height: 92px; animation-duration: .88s; animation-delay: -.48s; }
+.drop:nth-child(7)  { left: 25%; height: 70px; animation-duration: .76s; animation-delay: -.18s; }
+.drop:nth-child(8)  { left: 29%; height: 105px; animation-duration: .95s; animation-delay: -.82s; }
+.drop:nth-child(9)  { left: 33%; height: 84px; animation-duration: .69s; animation-delay: -.41s; }
+.drop:nth-child(10) { left: 37%; height: 98px; animation-duration: .81s; animation-delay: -.66s; }
+
+.drop:nth-child(11) { left: 41%; height: 73px; animation-duration: .64s; animation-delay: -.23s; }
+.drop:nth-child(12) { left: 45%; height: 112px; animation-duration: .92s; animation-delay: -.54s; }
+.drop:nth-child(13) { left: 49%; height: 86px; animation-duration: .71s; animation-delay: -.09s; }
+.drop:nth-child(14) { left: 53%; height: 102px; animation-duration: .87s; animation-delay: -.77s; }
+.drop:nth-child(15) { left: 57%; height: 76px; animation-duration: .66s; animation-delay: -.35s; }
+.drop:nth-child(16) { left: 61%; height: 94px; animation-duration: .79s; animation-delay: -.59s; }
+.drop:nth-child(17) { left: 65%; height: 82px; animation-duration: .73s; animation-delay: -.16s; }
+.drop:nth-child(18) { left: 69%; height: 108px; animation-duration: .9s; animation-delay: -.71s; }
+.drop:nth-child(19) { left: 73%; height: 72px; animation-duration: .62s; animation-delay: -.44s; }
+.drop:nth-child(20) { left: 77%; height: 100px; animation-duration: .86s; animation-delay: -.29s; }
+
+.drop:nth-child(21) { left: 81%; height: 80px; animation-duration: .75s; animation-delay: -.64s; }
+.drop:nth-child(22) { left: 84%; height: 115px; animation-duration: .94s; animation-delay: -.37s; }
+.drop:nth-child(23) { left: 87%; height: 74px; animation-duration: .67s; animation-delay: -.52s; }
+.drop:nth-child(24) { left: 90%; height: 96px; animation-duration: .83s; animation-delay: -.14s; }
+.drop:nth-child(25) { left: 93%; height: 83px; animation-duration: .7s; animation-delay: -.69s; }
+.drop:nth-child(26) { left: 96%; height: 106px; animation-duration: .89s; animation-delay: -.46s; }
+.drop:nth-child(27) { left: 11%; height: 90px; animation-duration: .78s; animation-delay: -.8s; }
+.drop:nth-child(28) { left: 38%; height: 77px; animation-duration: .65s; animation-delay: -.57s; }
+.drop:nth-child(29) { left: 68%; height: 103px; animation-duration: .85s; animation-delay: -.33s; }
+.drop:nth-child(30) { left: 98%; height: 88px; animation-duration: .74s; animation-delay: -.88s; }
+
+/* Variasi kecil supaya tidak semuanya sama */
+.drop:nth-child(3n) {
+    width: 1.5px;
+    opacity: .82;
+}
+
+.drop:nth-child(4n) {
+    width: 2.5px;
+    opacity: .96;
+}
+
+.drop:nth-child(5n) {
+    box-shadow:
+        0 0 4px rgba(255,255,255,1),
+        0 0 9px rgba(235,235,235,.7),
+        0 0 15px rgba(180,10,30,.5);
+}
+
+/* =========================================================
+   RAIN ANIMATION
+========================================================= */
+
+@keyframes rainFall {
+
+    0% {
+        transform:
+            translate3d(0,-20vh,0)
+            rotate(8deg);
+
+        opacity: 0;
+    }
+
+    8% {
+        opacity: .95;
+    }
+
+    45% {
+        opacity: .9;
+    }
+
+    92% {
+        opacity: .85;
+    }
+
+    100% {
+        transform:
+            translate3d(-65px,120vh,0)
+            rotate(8deg);
+
+        opacity: 0;
+    }
+}
+
+/* =========================================================
+   LIGHTNING FLASH
+========================================================= */
+
+.lightning {
+    position: fixed;
+    inset: 0;
+
+    pointer-events: none;
+    z-index: 15;
+
+    background: transparent;
+
+    mix-blend-mode: screen;
+
+    animation: lightningFlash 9s ease-in-out infinite;
+
+    will-change: background-color;
+}
+
+@keyframes lightningFlash {
+
+    0%,
+    17%,
+    21%,
+    23%,
+    25%,
+    27%,
+    59%,
+    61%,
+    63%,
+    100% {
+        background: transparent;
+    }
+
+    18% {
+        background: rgba(255,255,255,.92);
+    }
+
+    19% {
+        background: rgba(255,255,255,.35);
+    }
+
+    20% {
+        background: rgba(230,230,235,.65);
+    }
+
+    22% {
+        background: rgba(255,255,255,.85);
+    }
+
+    24% {
+        background: rgba(210,210,215,.5);
+    }
+
+    26% {
+        background: rgba(255,255,255,.7);
+    }
+
+    60% {
+        background: rgba(255,255,255,.95);
+    }
+
+    62% {
+        background: rgba(220,220,225,.6);
+    }
+}
+
+/* =========================================================
+   LIGHTNING BOLT
+========================================================= */
+
+.bolt {
+    position: fixed;
+
+    top: -4%;
+    left: 22%;
+
+    width: 90px;
+    height: 60vh;
+
+    pointer-events: none;
+    z-index: 16;
+
+    opacity: 0;
+
+    background:
+        url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 240' preserveAspectRatio='none'><polygon points='38,0 8,108 28,108 4,240 56,92 32,92 52,0' fill='white' stroke='%23d9dde2' stroke-width='1.2'/></svg>")
+        center/contain no-repeat;
+
+    filter:
+        drop-shadow(0 0 6px #ffffff)
+        drop-shadow(0 0 16px rgba(255,80,105,.95))
+        drop-shadow(0 0 32px rgba(190,20,45,.75))
+        drop-shadow(0 0 60px rgba(220,220,225,.4));
+
+    animation: boltFlash 9s ease-in-out infinite;
+
+    will-change: opacity, transform;
+}
+
+.bolt.b2 {
+    left: auto;
+    right: 14%;
+    top: -2%;
+
+    height: 55vh;
+    width: 78px;
+
+    animation-delay: -4.5s;
+
+    transform:
+        scaleX(-1)
+        rotate(6deg);
+}
+
+@keyframes boltFlash {
+
+    0%,
+    17%,
+    21%,
+    24%,
+    100% {
+        opacity: 0;
+        transform: translate3d(0,0,0);
+    }
+
+    18%,
+    19% {
+        opacity: 1;
+        transform: translate3d(0,0,0);
+    }
+
+    20% {
+        opacity: .55;
+    }
+
+    22% {
+        opacity: .95;
+        transform: translate3d(2px,0,0);
+    }
+
+    23% {
+        opacity: 0;
+    }
+}
+
+/* =========================================================
+   SCREEN SHAKE
+========================================================= */
+
+@keyframes thunderShake {
+
+    0%,
+    16%,
+    28%,
+    58%,
+    66%,
+    100% {
+        transform: translate3d(0,0,0);
+    }
+
+    17% {
+        transform: translate3d(-5px,3px,0);
+    }
+
+    18% {
+        transform: translate3d(6px,-4px,0);
+    }
+
+    19% {
+        transform: translate3d(-5px,-3px,0);
+    }
+
+    20% {
+        transform: translate3d(5px,3px,0);
+    }
+
+    21% {
+        transform: translate3d(-4px,2px,0);
+    }
+
+    22% {
+        transform: translate3d(4px,-2px,0);
+    }
+
+    23% {
+        transform: translate3d(-3px,-1px,0);
+    }
+
+    24% {
+        transform: translate3d(3px,1px,0);
+    }
+
+    25% {
+        transform: translate3d(-2px,1px,0);
+    }
+
+    26% {
+        transform: translate3d(2px,-1px,0);
+    }
+
+    27% {
+        transform: translate3d(-1px,0,0);
+    }
+
+    59% {
+        transform: translate3d(-6px,4px,0);
+    }
+
+    60% {
+        transform: translate3d(7px,-3px,0);
+    }
+
+    61% {
+        transform: translate3d(-5px,2px,0);
+    }
+
+    62% {
+        transform: translate3d(4px,-2px,0);
+    }
+
+    63% {
+        transform: translate3d(-3px,2px,0);
+    }
+
+    64% {
+        transform: translate3d(2px,-1px,0);
+    }
+
+    65% {
+        transform: translate3d(-1px,0,0);
+    }
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media(max-width:480px) {
+
+    .ticker {
+        max-width: 96vw;
+        margin: 14px auto 0;
+        padding: 6px 0;
+        font-size: 8px;
+    }
+
+    .ticker-inner {
+        animation-duration: 30s;
+    }
+
+    .arcade-frame {
+        margin: 0 auto 14px;
+        max-width: 96vw;
+    }
+
+    .live-strip {
+        font-size: 7px;
+        padding: 4px 12px;
+    }
+
+    .live-strip strong {
+        font-size: 9px;
+    }
+
+    .corner {
+        width: 14px;
+        height: 14px;
+    }
+
+    .screen {
+        padding: 12px 12px 16px;
+    }
+
+    .badge {
+        font-size: 6px;
+        padding: 4px 6px;
+        letter-spacing: .5px;
+    }
+
+    .logo {
+        font-size: 28px;
+        letter-spacing: 2px;
+    }
+
+    .menu a {
+        font-size: 12px;
+        padding: 16px 10px;
+        letter-spacing: 2px;
+    }
+
+    .features {
+        gap: 4px;
+    }
+
+    .feature {
+        padding: 6px 2px 5px;
+    }
+
+    .feature-icon {
+        font-size: 15px;
+    }
+
+    .feature-title {
+        font-size: 6px;
+    }
+
+    .feature-sub {
+        font-size: 9px;
+    }
+
+    .pay {
+        font-size: 9px;
+        padding: 3px 6px;
+    }
+
+    .seo-content p {
+        font-size: 13px;
+    }
+
+    /* =====================================================
+       ANTI PATAH-PATAH
+    ===================================================== */
+
+    body::before {
+        display: none;
+    }
+
+    .menu a {
+        animation: none;
+
+        box-shadow:
+            0 0 8px rgba(130,5,25,.35),
+            inset 0 0 10px rgba(120,5,25,.08);
+    }
+
+    .menu a::after {
+        display: none;
+    }
+
+    .aman-badge {
+        animation: none;
+    }
+
+    .logo,
+    .logo span {
+        animation: none;
+    }
+
+    .logo {
+        filter:
+            drop-shadow(0 0 6px rgba(150,10,30,.75))
+            drop-shadow(0 2px 2px rgba(0,0,0,.95));
+    }
+
+    .logo span {
+        filter:
+            drop-shadow(0 0 5px rgba(150,10,30,.65))
+            drop-shadow(0 2px 2px rgba(0,0,0,.95));
+    }
+
+    /*
+     * Jangan matikan shadow hujan di mobile.
+     * Ini salah satu penyebab sebelumnya hujan
+     * terlihat sangat redup.
+     */
+
+    .drop {
+        width: 2px;
+        height: 70px;
+
+        opacity: .9;
+
+        filter: none;
+
+        box-shadow:
+            0 0 3px rgba(255,255,255,.95),
+            0 0 7px rgba(230,230,230,.65),
+            0 0 11px rgba(170,10,30,.45);
+    }
+
+    .drop:nth-child(3n+2) {
+        display: block;
+    }
+
+    .drop:nth-child(3n+3) {
+        display: block;
+    }
+
+    .bolt {
+        width: 60px;
+
+        filter:
+            drop-shadow(
+                0 0 10px rgba(255,100,120,.95)
+            );
+    }
+
+    .bolt.b2 {
+        width: 54px;
+    }
+
+    .arcade-frame {
+        box-shadow:
+            0 0 12px rgba(130,5,25,.5),
+            inset 0 0 18px rgba(0,0,0,.85);
+    }
+
+    .feature::before {
+        display: none;
+    }
+
+    .feature-icon {
+        text-shadow:
+            0 0 4px rgba(220,220,220,.8),
+            0 0 7px rgba(140,5,25,.6);
+    }
+
+    .pay {
+        box-shadow: none;
+    }
+}
+
+/* =========================================================
+   REDUCED MOTION
+========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .arcade-frame {
+        animation: none;
+    }
+
+    .lightning {
+        animation: none;
+    }
+
+    .bolt {
+        display: none;
+    }
+
+    .drop {
+        animation-duration: 2s;
+    }
+
+    .menu a,
+    .menu a::after {
+        animation: none;
+    }
+
+    .logo,
+    .logo span {
+        animation: none;
+    }
+
+    .aman-badge {
+        animation: none;
+    }
+
+    .ticker-inner,
+    .live-strip .live-dot {
+        animation: none;
+    }
+}
+
+/* =========================================================
+   FINAL THEME OVERRIDES
+   DARK BLOOD RED × SILVER
+========================================================= */
+
+body {
+    color: var(--cyan-soft);
+
+    background:
+        radial-gradient(
+            ellipse at 50% -10%,
+            rgba(150,8,30,.34),
+            transparent 56%
+        ),
+        radial-gradient(
+            ellipse at 50% 110%,
+            rgba(100,4,20,.25),
+            transparent 58%
+        ),
+        linear-gradient(
+            180deg,
+            var(--bg) 0%,
+            var(--bg-2) 48%,
+            #000000 100%
+        );
+}
+
+.ticker,
+.arcade-frame,
+.menu a,
+.feature,
+.payments,
+.SIBAYAKTOTO {
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(48,6,14,.98),
+            rgba(1,1,2,.98)
+        );
+
+    border-color: var(--silver-dark);
+}
+
+.ticker,
+.arcade-frame {
+
+    box-shadow:
+        0 0 16px rgba(150,8,30,.42),
+        0 0 38px rgba(90,0,15,.28),
+        inset 0 0 24px rgba(0,0,0,.88);
+}
+
+.live-strip {
+
+    color: #ffffff;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(100,8,23,.96),
+            rgba(2,1,3,.96)
+        );
+
+    border-color: var(--silver);
+
+    box-shadow:
+        0 0 12px rgba(150,8,30,.5),
+        inset 0 0 7px rgba(255,255,255,.12);
+}
+
+.live-strip .live-dot,
+.badge .dot {
+
+    background: var(--pink-bright);
+
+    box-shadow:
+        0 0 8px var(--pink-bright),
+        0 0 14px rgba(220,30,55,.75);
+}
+
+.logo,
+.logo span {
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #e8e8e8 20%,
+            #858b92 42%,
+            #ffffff 56%,
+            #6f757d 72%,
+            #f8f8f8 100%
+        );
+
+    background-size: 100% 250%;
+
+    -webkit-background-clip: text;
+    background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+
+    -webkit-text-stroke: 1.2px #dfe3e7;
+
+    filter:
+        drop-shadow(0 0 8px rgba(150,8,30,.7))
+        drop-shadow(0 2px 2px #000000);
+}
+
+.boot-overlay {
+
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(150,8,30,.18),
+            transparent 56%
+        ),
+        linear-gradient(
+            180deg,
+            #750a1b,
+            #3e050d 58%,
+            #000000 100%
+        );
+}
+
+.boot-logo,
+.boot-logo span,
+.ticker-inner .sep {
+
+    color: var(--pink-bright);
+}
+
+.aman-badge .star {
+    color: var(--pink-bright);
+}
+
+.menu a {
+
+    color: var(--cyan-soft);
+
+    box-shadow:
+        0 0 12px rgba(130,5,25,.38),
+        inset 0 0 15px rgba(150,8,30,.08);
+}
+
+.menu a:hover {
+
+    color: #ffffff;
+
+    border-color: #ffffff;
+
+    box-shadow:
+        0 0 25px rgba(190,20,45,.65),
+        0 0 38px rgba(100,0,20,.38),
+        inset 0 0 24px rgba(150,8,30,.2);
+}
+
+.feature-icon {
+
+    color: var(--silver);
+
+    text-shadow:
+        0 0 7px rgba(255,255,255,.75),
+        0 0 13px rgba(150,8,30,.7);
+}
+
+.pay,
+.pay.mandiri,
+.pay.bni,
+.pay.bri,
+.pay.cimb,
+.pay.dana,
+.pay.ovo,
+.pay.gopay {
+
+    color: #171717;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #d8dadd 48%,
+            #858a91 100%
+        );
+
+    border-color: #f4f4f4;
+}
+
+.footer {
+
+    border-top-color: var(--silver);
+
+    background:
+        linear-gradient(
+            180deg,
+            transparent,
+            rgba(25,3,8,.9)
+        );
+}
+
+/* =========================================================
+   FINAL RAIN OVERRIDE
+   JANGAN DIHAPUS
+========================================================= */
+
+.rain-container {
+    position: fixed ;
+    inset: 0 ;
+
+    width: 100% ;
+    height: 100% ;
+
+    display: block ;
+    visibility: visible ;
+
+    pointer-events: none ;
+
+    z-index: 7 ;
+
+    overflow: hidden ;
+}
+
+.rain-container .drop {
+    display: block ;
+    visibility: visible ;
+
+    position: absolute ;
+
+    opacity: .9 ;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(255,255,255,0) 0%,
+            rgba(235,235,235,.75) 28%,
+            rgba(255,255,255,1) 70%,
+            rgba(200,200,200,.95) 100%
+        ) ;
+
+    box-shadow:
+        0 0 3px rgba(255,255,255,1),
+        0 0 8px rgba(235,235,235,.75),
+        0 0 14px rgba(170,10,30,.5) ;
+
+    animation-name: rainFall ;
+    animation-timing-function: linear ;
+    animation-iteration-count: infinite ;
+
+    pointer-events: none ;
+}
+
+/*
+ * Pastikan posisi drop tidak hilang
+ */
+.rain-container .drop:nth-child(1)  { left: 2% ; }
+.rain-container .drop:nth-child(2)  { left: 5% ; }
+.rain-container .drop:nth-child(3)  { left: 9% ; }
+.rain-container .drop:nth-child(4)  { left: 13% ; }
+.rain-container .drop:nth-child(5)  { left: 17% ; }
+.rain-container .drop:nth-child(6)  { left: 21% ; }
+.rain-container .drop:nth-child(7)  { left: 25% ; }
+.rain-container .drop:nth-child(8)  { left: 29% ; }
+.rain-container .drop:nth-child(9)  { left: 33% ; }
+.rain-container .drop:nth-child(10) { left: 37% ; }
+.rain-container .drop:nth-child(11) { left: 41% ; }
+.rain-container .drop:nth-child(12) { left: 45% ; }
+.rain-container .drop:nth-child(13) { left: 49% ; }
+.rain-container .drop:nth-child(14) { left: 53% ; }
+.rain-container .drop:nth-child(15) { left: 57% ; }
+.rain-container .drop:nth-child(16) { left: 61% ; }
+.rain-container .drop:nth-child(17) { left: 65% ; }
+.rain-container .drop:nth-child(18) { left: 69% ; }
+.rain-container .drop:nth-child(19) { left: 73% ; }
+.rain-container .drop:nth-child(20) { left: 77% ; }
+.rain-container .drop:nth-child(21) { left: 81% ; }
+.rain-container .drop:nth-child(22) { left: 84% ; }
+.rain-container .drop:nth-child(23) { left: 87% ; }
+.rain-container .drop:nth-child(24) { left: 90% ; }
+.rain-container .drop:nth-child(25) { left: 93% ; }
+.rain-container .drop:nth-child(26) { left: 96% ; }
+.rain-container .drop:nth-child(27) { left: 11% ; }
+.rain-container .drop:nth-child(28) { left: 38% ; }
+.rain-container .drop:nth-child(29) { left: 68% ; }
+.rain-container .drop:nth-child(30) { left: 98% ; }
+
+/*
+ * Jangan sampai FINAL OVERRIDE mematikan
+ * shadow hujan di mobile.
+ */
+@media(max-width:480px) {
+
+    .rain-container {
+        z-index: 7 ;
+    }
+
+    .rain-container .drop {
+        display: block ;
+        visibility: visible ;
+
+        width: 2px ;
+        height: 68px ;
+
+        opacity: .92 ;
+
+        filter: none ;
+
+        box-shadow:
+            0 0 3px rgba(255,255,255,1),
+            0 0 7px rgba(235,235,235,.75),
+            0 0 12px rgba(170,10,30,.5) ;
+    }
+}
+
+/* =========================================================
+   LIGHTNING TETAP DI ATAS RAIN
+========================================================= */
+
+.lightning {
+    z-index: 15 ;
+}
+
+.bolt {
+    z-index: 16 ;
+}
+
+/* =========================================================
+   REDUCED MOTION — RAIN TETAP TERLIHAT
+========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .rain-container .drop {
+        animation-duration: 1.8s ;
+        animation-iteration-count: infinite ;
+        opacity: .85 ;
+    }
+}
+</style>
+</head>
+
+<body>
+
+    <!-- HUJAN AIR -->
+    <div class="rain-container" aria-hidden="true">
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+        <div class="drop"></div>
+		
+    </div>
+
+    <!-- KILAT (visual bolt) -->
+    <div class="bolt" aria-hidden="true"></div>
+    <div class="bolt b2" aria-hidden="true"></div>
+
+    <!-- PETIR (flash overlay) -->
+    <div class="lightning" aria-hidden="true"></div>
+
+    <!-- TICKER PROMO -->
+    <div class="ticker" aria-label="Info promo">
+        <div class="ticker-inner">
+            <span><span class="hl">★ SEO NAKAL-TEAM ★</span></span><span class="sep">•</span>
+            <span><span class="hl">⚡ SEO NAKAL-TEAM ⚡</span></span><span class="sep">•</span>
+            <span><span class="hl">◆ SEO NAKAL-TEAM ◆</span></span><span class="sep">•</span>
+            <span><span class="hl">♛ RTP SLOT 99.7%</span></span><span class="sep">•</span>
+            <span><span class="hl">⛁ WD CEPAT 1-3 MENIT</span></span><span class="sep">•</span>
+            <span><span class="hl">⚡ MIN DEPO HANYA 5 RIBU</span></span><span class="sep"></span>
+        </div>
+    </div>
+
+    <section class="arcade-frame">
+
+        <!-- CORNER ORNAMENTS -->
+        <span class="corner c-tl" aria-hidden="true"></span>
+        <span class="corner c-tr" aria-hidden="true"></span>
+        <span class="corner c-bl" aria-hidden="true"></span>
+        <span class="corner c-br" aria-hidden="true"></span>
+
+        <div class="screen">
+
+            <!-- TRUST BADGES -->
+            <div class="badges">
+                <span class="badge"><span class="dot"></span>SITUS RESMI</span>
+                <span class="badge gold">★ 24 JAM ONLINE</span>
+            </div>
+
+            <!-- LOGO -->
+            <div class="logo">SIBAYAKTOTO</div>
+
+            <!-- LIVE PLAYER STRIP -->
+            <div class="live-strip" aria-label="Pemain online">
+                <span class="live-dot" aria-hidden="true"></span>
+                <strong>99.999</strong> PLAYER AKTIF
+            </div>
+
+            <!-- HERO IMAGE -->
+            <div class="hero">
+                <div class="hero-media">
+                    <amp-img src="https://cdn.phototourl.com/member/2026-10-04-b68f0f96-86aa-4fff-acd0-3becdeb46764.webp"
+                        width="420" height="420" layout="responsive" alt="BANNER SIBAYAKTOTO">
+                    </amp-img>
+                    <div class="boot-overlay">
+                        <div class="boot-logo">GOZIAW IS HERE</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MENU -->
+            <nav class="menu">
+                <a href="https://p-balap.info/short-link/sbygacor">LOGIN</a>
+                <a href="https://p-balap.info/short-link/sbygacor">DAFTAR</a>
+                <a href="https://p-balap.info/short-link/sbygacor">LINK SLOT GACOR HARI INI</a>
+            </nav>
+
+            <!-- AMAN BADGE -->
+            <div class="aman-badge"><span class="star">★</span> 100% AMAN &amp; PASTI BAYAR <span class="star">★</span>
+            </div>
+
+            <!-- FEATURE GRID -->
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">♛</div>
+                    <div class="feature-title">JACKPOT</div>
+                    <div class="feature-sub">TANPA BATAS</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">◆</div>
+                    <div class="feature-title">BONUS</div>
+                    <div class="feature-sub">UP TO 20%</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">⛁</div>
+                    <div class="feature-title">MIN DEPO</div>
+                    <div class="feature-sub">1.000</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">★</div>
+                    <div class="feature-title">WITHDRAW</div>
+                    <div class="feature-sub">1-3 MENIT</div>
+                </div>
+            </div>
+
+            <!-- PAYMENT METHODS -->
+            <div class="payments">
+                <div class="pay-title">DEPOSIT &amp; WITHDRAW TERSEDIA</div>
+                <div class="pay-list">
+                    <span class="pay">BCA</span>
+                    <span class="pay mandiri">MANDIRI</span>
+                    <span class="pay bni">BNI</span>
+                    <span class="pay bri">BRI</span>
+                    <span class="pay cimb">CIMB</span>
+                    <span class="pay dana">DANA</span>
+                    <span class="pay ovo">OVO</span>
+                    <span class="pay gopay">GOPAY</span>
+                </div>
+            </div>
+
+            <div class="SIBAYAKTOTO">SEO GOZIAW</div>
+
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            SIBAYAKTOTO © 2026
+        </div>
+
+    </section>
+
+</body>
+
+</html>
